@@ -9,7 +9,8 @@ Aplikasi sumber terbuka, berbahasa Indonesia, untuk mengelola orchestra angklung
 - Catat jumlah stok untuk setiap label angklung (termasuk beberapa unit dengan nada yang sama), lalu alokasikan jumlah unit yang dipegang setiap pemain.
 - Setiap pitch mutlak ditampilkan bersama konversi angka relatif terhadap Do= lagu. Konversi notasi menggunakan angka relatif: `/` untuk nada setengah laras lebih tinggi (C# = 1/ saat Do=C), `\` untuk setengah laras lebih rendah (Db = 2\), `^` untuk oktaf atas, dan `.` untuk oktaf bawah. Contohnya C5 = 1^ dan C3 = 1.. saat Do=C. Pitch acuan dapat diedit untuk mencocokkan set orchestra Anda.
 - Repertoar lagu dengan komposer, Do=, sistem nada, tempo, tautan partitur, instrumen/bagian, notasi per birama atau frasa, dan catatan latihan.
-- Kalender bulanan, absensi pemain (hadir, izin, sakit, alpa), dan timeline dari rangkaian latihan sampai pertunjukan.
+- Kalender latihan dengan pengulangan mingguan, dua mingguan, atau bulanan sampai tanggal yang dipilih. Setiap tanggal memiliki absensinya sendiri.
+- Ringkasan timeline menuju penampilan berikutnya, jumlah latihan terjadwal sebelumnya, dan peringatan jika penampilan berjarak 14 hari atau kurang.
 - Penyimpanan otomatis di `localStorage` browser.
 - Ekspor/impor seluruh data sebagai XML atau JSON.
 - Tata letak responsif untuk desktop dan ponsel.
