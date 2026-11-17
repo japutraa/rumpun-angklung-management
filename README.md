@@ -7,7 +7,7 @@ Aplikasi sumber terbuka, berbahasa Indonesia, untuk mengelola orchestra angklung
 - Daftar pemain, bagian, informasi kontak, catatan, dan instrumen yang dipegang.
 - Bank instrumen awal: Angklung Melodi 0–30 memakai Scientific Pitch Notation, dari 0 = F#3, 6 = C4, 18 = C5, hingga 30 = C6; Bass `g`–`f` bernada G2–F3 (melanjutkan turun dari Melodi 0 = F#3); Angklung Gajah `G`–`F` bernada G1–F2, satu oktaf di bawah Bass.
 - Catat jumlah stok untuk setiap label angklung (termasuk beberapa unit dengan nada yang sama), lalu alokasikan jumlah unit yang dipegang setiap pemain.
-- Setiap pitch mutlak ditampilkan bersama konversi angka relatif terhadap Do= lagu. Penanda titik di bawah/atas angka menunjukkan oktaf relatif terhadap Do4. Pitch acuan dapat diedit untuk mencocokkan set orchestra Anda.
+- Setiap pitch mutlak ditampilkan bersama konversi angka relatif terhadap Do= lagu. Konversi notasi menggunakan angka relatif: `/` untuk nada setengah laras lebih tinggi (C# = 1/ saat Do=C), `\` untuk setengah laras lebih rendah (Db = 2\), `^` untuk oktaf atas, dan `.` untuk oktaf bawah. Contohnya C5 = 1^ dan C3 = 1.. saat Do=C. Pitch acuan dapat diedit untuk mencocokkan set orchestra Anda.
 - Repertoar lagu dengan komposer, Do=, sistem nada, tempo, tautan partitur, instrumen/bagian, notasi per birama atau frasa, dan catatan latihan.
 - Kalender bulanan, absensi pemain (hadir, izin, sakit, alpa), dan timeline dari rangkaian latihan sampai pertunjukan.
 - Penyimpanan otomatis di `localStorage` browser.
