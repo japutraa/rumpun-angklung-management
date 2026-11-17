@@ -1,20 +1,20 @@
-Warning: truncated output (original token count: 39114)
-Total output lines: 3459
+Warning: truncated output (original token count: 38631)
+Total output lines: 3427
 
 <?xml version='1.0' encoding='utf-8'?>
 <rumpun version="9">
   <orchestra>
-    <name>Orchestra Demo 45 · Data Fiktif</name>
-    <conductor>Konduktor Demo</conductor>
-    <location>Lokasi contoh · bukan data kelompok nyata</location>
+    <name>Angklung Hamburg Orchestra</name>
+    <conductor>Tim Musik AHO</conductor>
+    <location>Hamburg, Jerman</location>
   </orchestra>
   <players>
     <player id="angklung-01">
-      <name>Pemain Set Angklung Demo 01</name>
+      <name>Ayu Lestari</name>
       <section>Set Angklung · Bass g, Melodi 2</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-g" quantity="1" />
         <instrumentAssignment ref="mel-2" quantity="1" />
@@ -23,11 +23,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-02">
-      <name>Pemain Set Angklung Demo 02</name>
+      <name>Dimas Aditya</name>
       <section>Set Angklung · Bass g, Melodi 2</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-g" quantity="1" />
         <instrumentAssignment ref="mel-2" quantity="1" />
@@ -36,11 +36,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-03">
-      <name>Pemain Set Angklung Demo 03</name>
+      <name>Nabila Putri</name>
       <section>Set Angklung · Bass g, Melodi 2</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-g" quantity="1" />
         <instrumentAssignment ref="mel-2" quantity="1" />
@@ -48,11 +48,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-04">
-      <name>Pemain Set Angklung Demo 04</name>
+      <name>Rizky Ramadhan</name>
       <section>Set Angklung · Bass g#, Melodi 3</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-gs" quantity="1" />
         <instrumentAssignment ref="mel-3" quantity="1" />
@@ -61,11 +61,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-05">
-      <name>Pemain Set Angklung Demo 05</name>
+      <name>Siti Rahmawati</name>
       <section>Set Angklung · Bass g#, Melodi 3</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-gs" quantity="1" />
         <instrumentAssignment ref="mel-3" quantity="1" />
@@ -74,11 +74,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-06">
-      <name>Pemain Set Angklung Demo 06</name>
+      <name>Rangga Prakoso</name>
       <section>Set Angklung · Bass g#, Melodi 3</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-gs" quantity="1" />
         <instrumentAssignment ref="mel-3" quantity="1" />
@@ -86,11 +86,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-07">
-      <name>Pemain Set Angklung Demo 07</name>
+      <name>Aulia Maharani</name>
       <section>Set Angklung · Bass a, Melodi 4</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-a" quantity="1" />
         <instrumentAssignment ref="mel-4" quantity="1" />
@@ -99,11 +99,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-08">
-      <name>Pemain Set Angklung Demo 08</name>
+      <name>Fajar Nugroho</name>
       <section>Set Angklung · Bass a, Melodi 4</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-a" quantity="1" />
         <instrumentAssignment ref="mel-4" quantity="1" />
@@ -112,11 +112,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-09">
-      <name>Pemain Set Angklung Demo 09</name>
+      <name>Dewi Anggraini</name>
       <section>Set Angklung · Bass a, Melodi 4</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-a" quantity="1" />
         <instrumentAssignment ref="mel-4" quantity="1" />
@@ -124,11 +124,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-10">
-      <name>Pemain Set Angklung Demo 10</name>
+      <name>Bagas Saputra</name>
       <section>Set Angklung · Bass a#, Melodi 5</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-as" quantity="1" />
         <instrumentAssignment ref="mel-5" quantity="1" />
@@ -137,11 +137,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-11">
-      <name>Pemain Set Angklung Demo 11</name>
+      <name>Nadia Permata</name>
       <section>Set Angklung · Bass a#, Melodi 5</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-as" quantity="1" />
         <instrumentAssignment ref="mel-5" quantity="1" />
@@ -150,11 +150,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-12">
-      <name>Pemain Set Angklung Demo 12</name>
+      <name>Ilham Maulana</name>
       <section>Set Angklung · Bass a#, Melodi 5</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-as" quantity="1" />
         <instrumentAssignment ref="mel-5" quantity="1" />
@@ -162,11 +162,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-13">
-      <name>Pemain Set Angklung Demo 13</name>
+      <name>Intan Puspitasari</name>
       <section>Set Angklung · Bass b, Melodi 6</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-b" quantity="1" />
         <instrumentAssignment ref="mel-6" quantity="1" />
@@ -175,11 +175,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-14">
-      <name>Pemain Set Angklung Demo 14</name>
+      <name>Yoga Pratama</name>
       <section>Set Angklung · Bass b, Melodi 6</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-b" quantity="1" />
         <instrumentAssignment ref="mel-6" quantity="1" />
@@ -188,11 +188,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-15">
-      <name>Pemain Set Angklung Demo 15</name>
+      <name>Citra Oktaviani</name>
       <section>Set Angklung · Bass b, Melodi 6</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-b" quantity="1" />
         <instrumentAssignment ref="mel-6" quantity="1" />
@@ -200,11 +200,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-16">
-      <name>Pemain Set Angklung Demo 16</name>
+      <name>Rafi Kurniawan</name>
       <section>Set Angklung · Bass c, Melodi 7</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-c" quantity="1" />
         <instrumentAssignment ref="mel-7" quantity="1" />
@@ -213,11 +213,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-17">
-      <name>Pemain Set Angklung Demo 17</name>
+      <name>Putri Wulandari</name>
       <section>Set Angklung · Bass c, Melodi 7</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-c" quantity="1" />
         <instrumentAssignment ref="mel-7" quantity="1" />
@@ -226,11 +226,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-18">
-      <name>Pemain Set Angklung Demo 18</name>
+      <name>Arif Hidayat</name>
       <section>Set Angklung · Bass c, Melodi 7</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-c" quantity="1" />
         <instrumentAssignment ref="mel-7" quantity="1" />
@@ -238,11 +238,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-19">
-      <name>Pemain Set Angklung Demo 19</name>
+      <name>Maya Kartika</name>
       <section>Set Angklung · Bass c#, Melodi 8</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-cs" quantity="1" />
         <instrumentAssignment ref="mel-8" quantity="1" />
@@ -251,11 +251,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-20">
-      <name>Pemain Set Angklung Demo 20</name>
+      <name>Bima Santoso</name>
       <section>Set Angklung · Bass c#, Melodi 8</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-cs" quantity="1" />
         <instrumentAssignment ref="mel-8" quantity="1" />
@@ -264,11 +264,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-21">
-      <name>Pemain Set Angklung Demo 21</name>
+      <name>Salsa Nuraini</name>
       <section>Set Angklung · Bass c#, Melodi 8</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-cs" quantity="1" />
         <instrumentAssignment ref="mel-8" quantity="1" />
@@ -276,11 +276,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-22">
-      <name>Pemain Set Angklung Demo 22</name>
+      <name>Gilang Firmansyah</name>
       <section>Set Angklung · Bass d, Melodi 9</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-d" quantity="1" />
         <instrumentAssignment ref="mel-9" quantity="1" />
@@ -289,11 +289,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-23">
-      <name>Pemain Set Angklung Demo 23</name>
+      <name>Tania Kusuma</name>
       <section>Set Angklung · Bass d, Melodi 9</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-d" quantity="1" />
         <instrumentAssignment ref="mel-9" quantity="1" />
@@ -302,11 +302,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-24">
-      <name>Pemain Set Angklung Demo 24</name>
+      <name>Rendra Wijaya</name>
       <section>Set Angklung · Bass d, Melodi 9</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-d" quantity="1" />
         <instrumentAssignment ref="mel-9" quantity="1" />
@@ -314,11 +314,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-25">
-      <name>Pemain Set Angklung Demo 25</name>
+      <name>Vina Amelia</name>
       <section>Set Angklung · Bass d#, Melodi 10</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-ds" quantity="1" />
         <instrumentAssignment ref="mel-10" quantity="1" />
@@ -327,11 +327,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-26">
-      <name>Pemain Set Angklung Demo 26</name>
+      <name>Farhan Akbar</name>
       <section>Set Angklung · Bass d#, Melodi 10</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-ds" quantity="1" />
         <instrumentAssignment ref="mel-10" quantity="1" />
@@ -339,22 +339,22 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-27">
-      <name>Pemain Set Angklung Demo 27</name>
+      <name>Rani Febriyanti</name>
       <section>Set Angklung · Bass d#, Melodi 10</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-ds" quantity="1" />
         <instrumentAssignment ref="mel-10" quantity="1" />
       </assignments>
     </player>
     <player id="angklung-28">
-      <name>Pemain Set Angklung Demo 28</name>
+      <name>Dito Mahendra</name>
       <section>Set Angklung · Bass e, Melodi 11</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-e" quantity="1" />
         <instrumentAssignment ref="mel-11" quantity="1" />
@@ -362,11 +362,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-29">
-      <name>Pemain Set Angklung Demo 29</name>
+      <name>Larasati Dewi</name>
       <section>Set Angklung · Bass e, Melodi 11</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-e" quantity="1" />
         <instrumentAssignment ref="mel-11" quantity="1" />
@@ -374,22 +374,22 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-30">
-      <name>Pemain Set Angklung Demo 30</name>
+      <name>Andika Putra</name>
       <section>Set Angklung · Bass e, Melodi 11</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-e" quantity="1" />
         <instrumentAssignment ref="mel-11" quantity="1" />
       </assignments>
     </player>
     <player id="angklung-31">
-      <name>Pemain Set Angklung Demo 31</name>
+      <name>Nadya Salsabila</name>
       <section>Set Angklung · Bass f, Melodi 12</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-f" quantity="1" />
         <instrumentAssignment ref="mel-12" quantity="1" />
@@ -397,11 +397,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-32">
-      <name>Pemain Set Angklung Demo 32</name>
+      <name>Reza Pahlevi</name>
       <section>Set Angklung · Bass f, Melodi 12</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-f" quantity="1" />
         <instrumentAssignment ref="mel-12" quantity="1" />
@@ -409,22 +409,22 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-33">
-      <name>Pemain Set Angklung Demo 33</name>
+      <name>Fitri Handayani</name>
       <section>Set Angklung · Bass f, Melodi 12</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="bass-f" quantity="1" />
         <instrumentAssignment ref="mel-12" quantity="1" />
       </assignments>
     </player>
     <player id="angklung-34">
-      <name>Pemain Set Angklung Demo 34</name>
+      <name>Krisna Wardana</name>
       <section>Set Angklung · Melodi 0, Melodi 16</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="mel-0" quantity="1" />
         <instrumentAssignment ref="mel-16" quantity="1" />
@@ -434,11 +434,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-35">
-      <name>Pemain Set Angklung Demo 35</name>
+      <name>Niken Larasati</name>
       <section>Set Angklung · Melodi 1, Melodi 17</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="mel-1" quantity="1" />
         <instrumentAssignment ref="mel-17" quantity="1" />
@@ -448,11 +448,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-36">
-      <name>Pemain Set Angklung Demo 36</name>
+      <name>Teguh Prasetyo</name>
       <section>Set Angklung · Melodi 13, Melodi 18</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="mel-13" quantity="1" />
         <instrumentAssignment ref="mel-18" quantity="1" />
@@ -462,11 +462,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-37">
-      <name>Pemain Set Angklung Demo 37</name>
+      <name>Mira Ayuningtyas</name>
       <section>Set Angklung · Melodi 14, Melodi 19</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="mel-14" quantity="1" />
         <instrumentAssignment ref="mel-19" quantity="1" />
@@ -476,11 +476,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="angklung-38">
-      <name>Pemain Set Angklung Demo 38</name>
+      <name>Lukas Schneider</name>
       <section>Set Angklung · Melodi 15, Melodi 20</section>
       <email />
       <phone />
-      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <notes>Penugasan nada dibagi bersama pemain lain; cek jumlah unit dan pitch mutlak sebelum latihan.</notes>
       <assignments>
         <instrumentAssignment ref="mel-15" quantity="1" />
         <instrumentAssignment ref="mel-20" quantity="1" />
@@ -490,11 +490,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="accomp-01">
-      <name>Pemain Accomp Demo 01</name>
+      <name>Rika Suryani</name>
       <section>Accomp (Chord)</section>
       <email />
       <phone />
-      <notes>Pemain khusus Accomp. Berbagi set akor standar; setiap pemain menangani 17 label akor pada demo ini.</notes>
+      <notes>Memegang set Accomp Besar; berbagi 17 label akor dengan pemain Accomp Kecil.</notes>
       <assignments>
         <instrumentAssignment ref="accomp-besar-a" quantity="1" />
         <instrumentAssignment ref="accomp-besar-asharp7" quantity="1" />
@@ -516,11 +516,11 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="accomp-02">
-      <name>Pemain Accomp Demo 02</name>
+      <name>Fikri Hendrawan</name>
       <section>Accomp (Chord)</section>
       <email />
       <phone />
-      <notes>Pemain khusus Accomp. Berbagi set akor standar; setiap pemain menangani 17 label akor pada demo ini.</notes>
+      <notes>Memegang set Accomp Kecil; berbagi 17 label akor dengan pemain Accomp Besar.</notes>
       <assignments>
         <instrumentAssignment ref="accomp-kecil-a" quantity="1" />
         <instrumentAssignment ref="accomp-kecil-asharp7" quantity="1" />
@@ -542,54 +542,54 @@ Total output lines: 3459
       </assignments>
     </player>
     <player id="altam-01">
-      <name>Pemain AlTam Demo 01</name>
+      <name>Budi Hartono</name>
       <section>Alat Tambahan (AlTam)</section>
       <email />
       <phone />
-      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <notes>Bagian AlTam: Kontrabas, Suling.</notes>
       <assignments>
         <instrumentAssignment ref="altam-contrabass" quantity="1" />
         <instrumentAssignment ref="altam-suling" quantity="1" />
       </assignments>
     </player>
     <player id="altam-02">
-      <name>Pemain AlTam Demo 02</name>
+      <name>Johanna Fischer</name>
       <section>Alat Tambahan (AlTam)</section>
       <email />
       <phone />
-      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <notes>Bagian AlTam: Biola, Keyboard.</notes>
       <assignments>
         <instrumentAssignment ref="altam-violin" quantity="1" />
         <instrumentAssignment ref="altam-keyboard" quantity="1" />
       </assignments>
     </player>
     <player id="altam-03">
-      <name>Pemain AlTam Demo 03</name>
+      <name>Marie Dubois</name>
       <section>Alat Tambahan (AlTam)</section>
       <email />
       <phone />
-      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <notes>Bagian AlTam: Cello, Gong.</notes>
       <assignments>
         <instrumentAssignment ref="altam-cello" quantity="1" />
         <instrumentAssignment ref="altam-gong" quantity="1" />
       </assignments>
     </player>
     <player id="altam-04">
-      <name>Pemain AlTam Demo 04</name>
+      <name>Felix Weber</name>
       <section>Alat Tambahan (AlTam)</section>
       <email />
       <phone />
-      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <notes>Bagian AlTam: Gitar.</notes>
       <assignments>
         <instrumentAssignment ref="altam-gitar" quantity="1" />
       </assignments>
     </player>
     <player id="altam-05">
-      <name>Pemain AlTam Demo 05</name>
+      <name>Yuki Tanaka</name>
       <section>Alat Tambahan (AlTam)</section>
       <email />
       <phone />
-      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <notes>Bagian AlTam: Cajon.</notes>
       <assignments>
         <instrumentAssignment ref="altam-cajon" quantity="1" />
       </assignments>
@@ -602,7 +602,7 @@ Total output lines: 3459
       <pitch>F#3</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-1" family="melodi">
       <name>Melodi 1</name>
@@ -610,7 +610,7 @@ Total output lines: 3459
       <pitch>G3</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-2" family="melodi">
       <name>Melodi 2</name>
@@ -618,7 +618,7 @@ Total output lines: 3459
       <pitch>G#3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass g satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-3" family="melodi">
       <name>Melodi 3</name>
@@ -626,7 +626,7 @@ Total output lines: 3459
       <pitch>A3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass g# satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-4" family="melodi">
       <name>Melodi 4</name>
@@ -634,7 +634,7 @@ Total output lines: 3459
       <pitch>A#3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass a satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-5" family="melodi">
       <name>Melodi 5</name>
@@ -642,7 +642,7 @@ Total output lines: 3459
       <pitch>B3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass a# satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-6" family="melodi">
       <name>Melodi 6</name>
@@ -650,7 +650,7 @@ Total output lines: 3459
       <pitch>C4</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass b satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-7" family="melodi">
       <name>Melodi 7</name>
@@ -658,7 +658,7 @@ Total output lines: 3459
       <pitch>C#4</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass c satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-8" family="melodi">
       <name>Melodi 8</name>
@@ -666,7 +666,7 @@ Total output lines: 3459
       <pitch>D4</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass c# satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-9" family="melodi">
       <name>Melodi 9</name>
@@ -674,7 +674,7 @@ Total output lines: 3459
       <pitch>D#4</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass d satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-10" family="melodi">
       <name>Melodi 10</name>
@@ -682,7 +682,7 @@ Total output lines: 3459
       <pitch>E4</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass d# satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-11" family="melodi">
       <name>Melodi 11</name>
@@ -690,7 +690,7 @@ Total output lines: 3459
       <pitch>F4</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass e satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-12" family="melodi">
       <name>Melodi 12</name>
@@ -698,7 +698,7 @@ Total output lines: 3459
       <pitch>F#4</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; pasangan Bass f satu oktaf + satu semiton di atas.</notes>
+      <notes>3 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-13" family="melodi">
       <name>Melodi 13</name>
@@ -706,7 +706,7 @@ Total output lines: 3459
       <pitch>G4</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-14" family="melodi">
       <name>Melodi 14</name>
@@ -714,7 +714,7 @@ Total output lines: 3459
       <pitch>G#4</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-15" family="melodi">
       <name>Melodi 15</name>
@@ -722,7 +722,7 @@ Total output lines: 3459
       <pitch>A4</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-16" family="melodi">
       <name>Melodi 16</name>
@@ -730,7 +730,7 @@ Total output lines: 3459
       <pitch>A#4</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-17" family="melodi">
       <name>Melodi 17</name>
@@ -738,7 +738,7 @@ Total output lines: 3459
       <pitch>B4</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-18" family="melodi">
       <name>Melodi 18</name>
@@ -746,7 +746,7 @@ Total output lines: 3459
       <pitch>C5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-19" family="melodi">
       <name>Melodi 19</name>
@@ -754,7 +754,7 @@ Total output lines: 3459
       <pitch>C#5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-20" family="melodi">
       <name>Melodi 20</name>
@@ -762,7 +762,7 @@ Total output lines: 3459
       <pitch>D5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-21" family="melodi">
       <name>Melodi 21</name>
@@ -770,7 +770,7 @@ Total output lines: 3459
       <pitch>D#5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-22" family="melodi">
       <name>Melodi 22</name>
@@ -778,7 +778,7 @@ Total output lines: 3459
       <pitch>E5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-23" family="melodi">
       <name>Melodi 23</name>
@@ -786,7 +786,7 @@ Total output lines: 3459
       <pitch>F5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-24" family="melodi">
       <name>Melodi 24</name>
@@ -794,7 +794,7 @@ Total output lines: 3459
       <pitch>F#5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-25" family="melodi">
       <name>Melodi 25</name>
@@ -802,7 +802,7 @@ Total output lines: 3459
       <pitch>G5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-26" family="melodi">
       <name>Melodi 26</name>
@@ -810,7 +810,7 @@ Total output lines: 3459
       <pitch>G#5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-27" family="melodi">
       <name>Melodi 27</name>
@@ -818,7 +818,7 @@ Total output lines: 3459
       <pitch>A5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-28" family="melodi">
       <name>Melodi 28</name>
@@ -826,7 +826,7 @@ Total output lines: 3459
       <pitch>A#5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-29" family="melodi">
       <name>Melodi 29</name>
@@ -834,7 +834,7 @@ Total output lines: 3459
       <pitch>B5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-30" family="melodi">
       <name>Melodi 30</name>
@@ -842,7 +842,7 @@ Total output lines: 3459
       <pitch>C6</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-31" family="melodiTambahan">
       <name>Melodi 31</name>
@@ -850,7 +850,7 @@ Total output lines: 3459
       <pitch>C#6</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-32" family="melodiTambahan">
       <name>Melodi 32</name>
@@ -858,7 +858,7 @@ Total output lines: 3459
       <pitch>D6</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-33" family="melodiTambahan">
       <name>Melodi 33</name>
@@ -866,7 +866,7 @@ Total output lines: 3459
       <pitch>D#6</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-34" family="melodiTambahan">
       <name>Melodi 34</name>
@@ -874,7 +874,7 @@ Total output lines: 3459
       <pitch>E6</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="mel-35" family="melodiTambahan">
       <name>Melodi 35</name>
@@ -882,7 +882,7 @@ Total output lines: 3459
       <pitch>F6</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; pitch dikelola per nomor angklung.</notes>
     </instrument>
     <instrument id="bass-g" family="bass">
       <name>Bass g</name>
@@ -890,7 +890,7 @@ Total output lines: 3459
       <pitch>G2</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 2 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass g dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-gs" family="bass">
       <name>Bass g#</name>
@@ -898,7 +898,7 @@ Total output lines: 3459
       <pitch>G#2</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 3 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass g# dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-a" family="bass">
       <name>Bass a</name>
@@ -906,7 +906,7 @@ Total output lines: 3459
       <pitch>A2</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 4 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass a dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-as" family="bass">
       <name>Bass a#</name>
@@ -914,7 +914,7 @@ Total output lines: 3459
       <pitch>A#2</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 5 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass a# dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-b" family="bass">
       <name>Bass b</name>
@@ -922,7 +922,7 @@ Total output lines: 3459
       <pitch>B2</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 6 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass b dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-c" family="bass">
       <name>Bass c</name>
@@ -930,7 +930,7 @@ Total output lines: 3459
       <pitch>C3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 7 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass c dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-cs" family="bass">
       <name>Bass c#</name>
@@ -938,7 +938,7 @@ Total output lines: 3459
       <pitch>C#3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 8 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass c# dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-d" family="bass">
       <name>Bass d</name>
@@ -946,7 +946,7 @@ Total output lines: 3459
       <pitch>D3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 9 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass d dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-ds" family="bass">
       <name>Bass d#</name>
@@ -954,7 +954,7 @@ Total output lines: 3459
       <pitch>D#3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 10 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass d# dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-e" family="bass">
       <name>Bass e</name>
@@ -962,7 +962,7 @@ Total output lines: 3459
       <pitch>E3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 11 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass e dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="bass-f" family="bass">
       <name>Bass f</name>
@@ -970,7 +970,7 @@ Total output lines: 3459
       <pitch>F3</pitch>
       <quantity>3</quantity>
       <status>tersedia</status>
-      <notes>Demo: 3 unit; dipasangkan dengan Melodi 12 (+13 semiton dari pitch Bass).</notes>
+      <notes>3 unit tersedia; nada Bass f dipasangkan dengan Melodi satu oktaf + satu semiton di atas.</notes>
     </instrument>
     <instrument id="gajah-G" family="gajah">
       <name>Gajah G</name>
@@ -978,7 +978,7 @@ Total output lines: 3459
       <pitch>G1</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah G.</notes>
     </instrument>
     <instrument id="gajah-Gs" family="gajah">
       <name>Gajah G#</name>
@@ -986,7 +986,7 @@ Total output lines: 3459
       <pitch>G#1</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah G#.</notes>
     </instrument>
     <instrument id="gajah-A" family="gajah">
       <name>Gajah A</name>
@@ -994,7 +994,7 @@ Total output lines: 3459
       <pitch>A1</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah A.</notes>
     </instrument>
     <instrument id="gajah-As" family="gajah">
       <name>Gajah A#</name>
@@ -1002,7 +1002,7 @@ Total output lines: 3459
       <pitch>A#1</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah A#.</notes>
     </instrument>
     <instrument id="gajah-B" family="gajah">
       <name>Gajah B</name>
@@ -1010,7 +1010,7 @@ Total output lines: 3459
       <pitch>B1</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah B.</notes>
     </instrument>
     <instrument id="gajah-C" family="gajah">
       <name>Gajah C</name>
@@ -1018,7 +1018,7 @@ Total output lines: 3459
       <pitch>C2</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah C.</notes>
     </instrument>
     <instrument id="gajah-Cs" family="gajah">
       <name>Gajah C#</name>
@@ -1026,7 +1026,7 @@ Total output lines: 3459
       <pitch>C#2</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah C#.</notes>
     </instrument>
     <instrument id="gajah-D" family="gajah">
       <name>Gajah D</name>
@@ -1034,7 +1034,7 @@ Total output lines: 3459
       <pitch>D2</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah D.</notes>
     </instrument>
     <instrument id="gajah-Ds" family="gajah">
       <name>Gajah D#</name>
@@ -1042,7 +1042,7 @@ Total output lines: 3459
       <pitch>D#2</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah D#.</notes>
     </instrument>
     <instrument id="gajah-E" family="gajah">
       <name>Gajah E</name>
@@ -1050,7 +1050,7 @@ Total output lines: 3459
       <pitch>E2</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah E.</notes>
     </instrument>
     <instrument id="gajah-F" family="gajah">
       <name>Gajah F</name>
@@ -1058,7 +1058,7 @@ Total output lines: 3459
       <pitch>F2</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+      <notes>2 unit tersedia; register rendah Gajah F.</notes>
     </instrument>
     <instrument id="accomp-besar-g" family="chord">
       <name>Accomp Besar G</name>
@@ -1338,7 +1338,7 @@ Total output lines: 3459
       <pitch>E1</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+      <notes>Alat Tambahan orchestra; penugasan dicatat pada profil pemain.</notes>
     </instrument>
     <instrument id="altam-violin" family="altam">
       <name>Biola</name>
@@ -1346,7 +1346,7 @@ Total output lines: 3459
       <pitch>G3</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+      <notes>Alat Tambahan orchestra; penugasan dicatat pada profil pemain.</notes>
     </instrument>
     <instrument id="altam-cello" family="altam">
       <name>Cello</name>
@@ -1354,7 +1354,7 @@ Total output lines: 3459
       <pitch>C2</pitch>
       <quantity>1</quantity>
       <status>tersedia</status>
-      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+      <notes>Alat Tambahan orchestra; penugasan dicatat pada profil pemain.</notes>
     </instrument>
     <instrument id="altam-gitar" family="altam">
       <name>Gitar</name>
@@ -1362,7 +1362,7 @@ Total output lines: 3459
       <pitch>E2</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+      <notes>Alat Tambahan orchestra; penugasan dicatat pada profil pemain.</notes>
     </instrument>
     <instrument id="altam-cajon" family="altam">
       <name>Cajon</name>
@@ -1370,7 +1370,7 @@ Total output lines: 3459
       <pitch />
       <quantity>1</quantity>
       <status>tersedia</status>
-      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+      <notes>Alat Tambahan orchestra; penugasan dicatat pada profil pemain.</notes>
     </instrument>
     <instrument id="altam-suling" family="altam">
       <name>Suling</name>
@@ -1378,7 +1378,7 @@ Total output lines: 3459
       <pitch>C5</pitch>
       <quantity>2</quantity>
       <status>tersedia</status>
-      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+      <notes>Alat Tambahan orchestra; penugasan dicatat pada profil pemain.</notes>
     </instrument>
     <instrument id="altam-keyboard" family="altam">
       <name>Keyboard</name>
@@ -1386,7 +1386,7 @@ Total output lines: 3459
       <pitch>C4</pitch>
       <quantity>1</quantity>
       <status>tersedia</status>
-      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+      <notes>Alat Tambahan orchestra; penugasan dicatat pada profil pemain.</notes>
     </instrument>
     <instrument id="altam-gong" family="altam">
       <name>Gong</name>
@@ -1394,19 +1394,19 @@ Total output lines: 3459
       <pitch />
       <quantity>1</quantity>
       <status>tersedia</status>
-      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+      <notes>Alat Tambahan orchestra; penugasan dicatat pada profil pemain.</notes>
     </instrument>
   </instruments>
   <songs>
     <song id="lagu-01">
       <title>Pagi di Saung</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>C</do>
       <scale>diatonis</scale>
       <tempo>80</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=C.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -1474,7 +1474,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-em</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -1484,13 +1484,75 @@ Total output lines: 3459
     </song>
     <song id="lagu-02">
       <title>Hujan di Kebun Teh</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>G</do>
       <scale>diatonis</scale>
       <tempo>87</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=G.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instr…8631 tokens truncated… <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-11">
+      <title>Senja di Pantai</title>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
+      <do>C</do>
+      <scale>diatonis</scale>
+      <tempo>99</tempo>
+      <url />
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=C.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -1550,46 +1612,6 @@ Total output lines: 3459
         <instrumentRef>gajah-Ds</instrumentRef>
         <instrumentRef>gajah-E</instrumentRef>
         <instrumentRef>gajah-F</instrumentRef>
-        <instrumentRef>accomp-besar-c</instrumentRef>
-        <instrumentRef>accomp-kecil-c</instrumentRef>
-        <instrumentRef>accomp-besar-fm</instrumentRef>
-        <instrumentRef>accomp-kecil-fm</instrumentRef>
-        <instrumentRef>accomp-besar-a7</instrumentRef>
-        <instrumentRef>accomp-kecil…9114 tokens truncated…Ref>
-        <instrumentRef>mel-24</instrumentRef>
-        <instrumentRef>mel-25</instrumentRef>
-        <instrumentRef>mel-26</instrumentRef>
-        <instrumentRef>mel-27</instrumentRef>
-        <instrumentRef>mel-28</instrumentRef>
-        <instrumentRef>mel-29</instrumentRef>
-        <instrumentRef>mel-30</instrumentRef>
-        <instrumentRef>mel-31</instrumentRef>
-        <instrumentRef>mel-32</instrumentRef>
-        <instrumentRef>mel-33</instrumentRef>
-        <instrumentRef>mel-34</instrumentRef>
-        <instrumentRef>mel-35</instrumentRef>
-        <instrumentRef>bass-g</instrumentRef>
-        <instrumentRef>bass-gs</instrumentRef>
-        <instrumentRef>bass-a</instrumentRef>
-        <instrumentRef>bass-as</instrumentRef>
-        <instrumentRef>bass-b</instrumentRef>
-        <instrumentRef>bass-c</instrumentRef>
-        <instrumentRef>bass-cs</instrumentRef>
-        <instrumentRef>bass-d</instrumentRef>
-        <instrumentRef>bass-ds</instrumentRef>
-        <instrumentRef>bass-e</instrumentRef>
-        <instrumentRef>bass-f</instrumentRef>
-        <instrumentRef>gajah-G</instrumentRef>
-        <instrumentRef>gajah-Gs</instrumentRef>
-        <instrumentRef>gajah-A</instrumentRef>
-        <instrumentRef>gajah-As</instrumentRef>
-        <instrumentRef>gajah-B</instrumentRef>
-        <instrumentRef>gajah-C</instrumentRef>
-        <instrumentRef>gajah-Cs</instrumentRef>
-        <instrumentRef>gajah-D</instrumentRef>
-        <instrumentRef>gajah-Ds</instrumentRef>
-        <instrumentRef>gajah-E</instrumentRef>
-        <instrumentRef>gajah-F</instrumentRef>
         <instrumentRef>accomp-besar-e7</instrumentRef>
         <instrumentRef>accomp-kecil-e7</instrumentRef>
         <instrumentRef>accomp-besar-flatflat</instrumentRef>
@@ -1598,7 +1620,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-a</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -1608,13 +1630,13 @@ Total output lines: 3459
     </song>
     <song id="lagu-12">
       <title>Kupu-Kupu Pagi</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>A</do>
       <scale>diatonis</scale>
       <tempo>106</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=A.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -1682,7 +1704,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-dm</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -1692,13 +1714,13 @@ Total output lines: 3459
     </song>
     <song id="lagu-13">
       <title>Kota yang Menari</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>G</do>
       <scale>diatonis</scale>
       <tempo>113</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=G.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -1766,7 +1788,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-g7</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -1776,13 +1798,13 @@ Total output lines: 3459
     </song>
     <song id="lagu-14">
       <title>Perjalanan Utara</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>D</do>
       <scale>diatonis</scale>
       <tempo>120</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=D.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -1850,7 +1872,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-flat7</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -1860,13 +1882,13 @@ Total output lines: 3459
     </song>
     <song id="lagu-15">
       <title>Cahaya Lentera</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>F</do>
       <scale>diatonis</scale>
       <tempo>127</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=F.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -1934,7 +1956,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-e7</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -1944,13 +1966,13 @@ Total output lines: 3459
     </song>
     <song id="lagu-16">
       <title>Jejak di Sawah</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>C</do>
       <scale>diatonis</scale>
       <tempo>83</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=C.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -2018,7 +2040,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-flatflat</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -2028,13 +2050,13 @@ Total output lines: 3459
     </song>
     <song id="lagu-17">
       <title>Rindu Kampung</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>Bb</do>
       <scale>diatonis</scale>
       <tempo>90</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=Bb.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -2102,7 +2124,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-flat</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -2112,13 +2134,13 @@ Total output lines: 3459
     </song>
     <song id="lagu-18">
       <title>Satu Irama</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>G</do>
       <scale>diatonis</scale>
       <tempo>97</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=G.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -2186,7 +2208,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-em</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -2196,13 +2218,13 @@ Total output lines: 3459
     </song>
     <song id="lagu-19">
       <title>Langkah Bersama</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>D</do>
       <scale>diatonis</scale>
       <tempo>104</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=D.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -2270,7 +2292,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-a7</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -2280,13 +2302,13 @@ Total output lines: 3459
     </song>
     <song id="lagu-20">
       <title>Finale Nusantara</title>
-      <composer>Komposisi demo</composer>
-      <genre>Orisinal · contoh</genre>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
       <do>C</do>
       <scale>diatonis</scale>
       <tempo>111</tempo>
       <url />
-      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=C.</memo>
       <instruments>
         <instrumentRef>mel-0</instrumentRef>
         <instrumentRef>mel-1</instrumentRef>
@@ -2354,7 +2376,7 @@ Total output lines: 3459
         <instrumentRef>accomp-kecil-c7</instrumentRef>
       </instruments>
       <notation>
-        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
         <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
         <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
         <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
@@ -2366,10 +2388,10 @@ Total output lines: 3459
   <calendar>
     <event id="latihan-besar-01" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="0">
       <title>Latihan besar bulanan</title>
-      <date>2026-10-17</date>
+      <date>2026-10-18</date>
       <time>10:00</time>
-      <location>Aula orchestra demo</location>
-      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
+      <location>Aula komunitas, Hamburg</location>
+      <description>Latihan gabungan seluruh bagian, termasuk Accomp dan AlTam; evaluasi repertoar dan dinamika.</description>
       <attendance>
         <mark playerRef="angklung-01" status="izin" />
         <mark playerRef="angklung-02" status="hadir" />
@@ -2422,8 +2444,8 @@ Total output lines: 3459
       <title>Latihan kecil mingguan</title>
       <date>2026-11-04</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance>
         <mark playerRef="angklung-01" status="izin" />
         <mark playerRef="angklung-02" status="hadir" />
@@ -2476,8 +2498,8 @@ Total output lines: 3459
       <title>Latihan kecil mingguan</title>
       <date>2026-11-11</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance>
         <mark playerRef="angklung-01" status="izin" />
         <mark playerRef="angklung-02" status="hadir" />
@@ -2528,218 +2550,186 @@ Total output lines: 3459
     </event>
     <event id="latihan-besar-02" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="1">
       <title>Latihan besar bulanan</title>
-      <date>2026-11-17</date>
+      <date>2026-11-15</date>
       <time>10:00</time>
-      <location>Aula orchestra demo</location>
-      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
+      <location>Aula komunitas, Hamburg</location>
+      <description>Latihan gabungan seluruh bagian, termasuk Accomp dan AlTam; evaluasi repertoar dan dinamika.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-03" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="2">
       <title>Latihan kecil mingguan</title>
       <date>2026-11-18</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-04" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="3">
       <title>Latihan kecil mingguan</title>
       <date>2026-11-25</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-05" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="4">
       <title>Latihan kecil mingguan</title>
       <date>2026-12-02</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-06" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="5">
       <title>Latihan kecil mingguan</title>
       <date>2026-12-09</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
+      <attendance />
+    </event>
+    <event id="latihan-besar-03" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="2">
+      <title>Latihan besar bulanan</title>
+      <date>2026-12-13</date>
+      <time>10:00</time>
+      <location>Aula komunitas, Hamburg</location>
+      <description>Latihan gabungan seluruh bagian, termasuk Accomp dan AlTam; evaluasi repertoar dan dinamika.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-07" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="6">
       <title>Latihan kecil mingguan</title>
       <date>2026-12-16</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
-      <attendance />
-    </event>
-    <event id="latihan-besar-03" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="2">
-      <title>Latihan besar bulanan</title>
-      <date>2026-12-17</date>
-      <time>10:00</time>
-      <location>Aula orchestra demo</location>
-      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-08" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="7">
       <title>Latihan kecil mingguan</title>
       <date>2026-12-23</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-09" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="8">
       <title>Latihan kecil mingguan</title>
       <date>2026-12-30</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-10" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="9">
       <title>Latihan kecil mingguan</title>
       <date>2027-01-06</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-11" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="10">
       <title>Latihan kecil mingguan</title>
       <date>2027-01-13</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-besar-04" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="3">
       <title>Latihan besar bulanan</title>
       <date>2027-01-17</date>
       <time>10:00</time>
-      <location>Aula orchestra demo</location>
-      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
+      <location>Aula komunitas, Hamburg</location>
+      <description>Latihan gabungan seluruh bagian, termasuk Accomp dan AlTam; evaluasi repertoar dan dinamika.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-12" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="11">
       <title>Latihan kecil mingguan</title>
       <date>2027-01-20</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-13" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="12">
       <title>Latihan kecil mingguan</title>
       <date>2027-01-27</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="latihan-kecil-14" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="13">
       <title>Latihan kecil mingguan</title>
       <date>2027-02-03</date>
       <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Ruang latihan AHO, Hamburg</location>
+      <description>Latihan kelompok kecil; pemantapan nada, tempo, dinamika, dan transisi repertoar.</description>
       <attendance />
     </event>
     <event id="konser-tur-01" type="performance">
-      <title>Tur Demo · Jakarta</title>
+      <title>Konser tur · Jakarta</title>
       <date>2027-02-05</date>
       <time>19:30</time>
-      <location>Gedung Pertunjukan Demo · Jakarta</location>
-      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <location>Jakarta, Indonesia</location>
+      <description>Rangkaian tur Indonesia 2027. Detail gedung dan teknis panggung dikoordinasikan panitia setempat.</description>
       <attendance />
     </event>
     <event id="konser-tur-02" type="performance">
-      <title>Tur Demo · Bandung</title>
+      <title>Konser tur · Bandung</title>
       <date>2027-02-08</date>
       <time>19:30</time>
-      <location>Gedung Pertunjukan Demo · Bandung</location>
-      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
-      <attendance />
-    </event>
-    <event id="latihan-kecil-15" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="14">
-      <title>Latihan kecil mingguan</title>
-      <date>2027-02-10</date>
-      <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Bandung, Indonesia</location>
+      <description>Rangkaian tur Indonesia 2027. Detail gedung dan teknis panggung dikoordinasikan panitia setempat.</description>
       <attendance />
     </event>
     <event id="konser-tur-03" type="performance">
-      <title>Tur Demo · Yogyakarta</title>
+      <title>Konser tur · Yogyakarta</title>
       <date>2027-02-11</date>
       <time>19:30</time>
-      <location>Gedung Pertunjukan Demo · Yogyakarta</location>
-      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <location>Yogyakarta, Indonesia</location>
+      <description>Rangkaian tur Indonesia 2027. Detail gedung dan teknis panggung dikoordinasikan panitia setempat.</description>
       <attendance />
     </event>
     <event id="konser-tur-04" type="performance">
-      <title>Tur Demo · Semarang</title>
+      <title>Konser tur · Semarang</title>
       <date>2027-02-14</date>
       <time>19:30</time>
-      <location>Gedung Pertunjukan Demo · Semarang</location>
-      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
-      <attendance />
-    </event>
-    <event id="latihan-besar-05" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="4">
-      <title>Latihan besar bulanan</title>
-      <date>2027-02-17</date>
-      <time>10:00</time>
-      <location>Aula orchestra demo</location>
-      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
-      <attendance />
-    </event>
-    <event id="latihan-kecil-16" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="15">
-      <title>Latihan kecil mingguan</title>
-      <date>2027-02-17</date>
-      <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Semarang, Indonesia</location>
+      <description>Rangkaian tur Indonesia 2027. Detail gedung dan teknis panggung dikoordinasikan panitia setempat.</description>
       <attendance />
     </event>
     <event id="konser-tur-05" type="performance">
-      <title>Tur Demo · Surabaya</title>
+      <title>Konser tur · Surabaya</title>
       <date>2027-02-17</date>
       <time>19:30</time>
-      <location>Gedung Pertunjukan Demo · Surabaya</location>
-      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <location>Surabaya, Indonesia</location>
+      <description>Rangkaian tur Indonesia 2027. Detail gedung dan teknis panggung dikoordinasikan panitia setempat.</description>
       <attendance />
     </event>
     <event id="konser-tur-06" type="performance">
-      <title>Tur Demo · Malang</title>
+      <title>Konser tur · Malang</title>
       <date>2027-02-20</date>
       <time>19:30</time>
-      <location>Gedung Pertunjukan Demo · Malang</location>
-      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
-      <attendance />
-    </event>
-    <event id="latihan-kecil-17" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="16">
-      <title>Latihan kecil mingguan</title>
-      <date>2027-02-24</date>
-      <time>19:00</time>
-      <location>Ruang latihan demo</location>
-      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <location>Malang, Indonesia</location>
+      <description>Rangkaian tur Indonesia 2027. Detail gedung dan teknis panggung dikoordinasikan panitia setempat.</description>
       <attendance />
     </event>
     <event id="konser-tur-07" type="performance">
-      <title>Tur Demo · Denpasar</title>
+      <title>Konser tur · Denpasar</title>
       <date>2027-02-24</date>
       <time>19:30</time>
-      <location>Gedung Pertunjukan Demo · Denpasar</location>
-      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <location>Denpasar, Indonesia</location>
+      <description>Rangkaian tur Indonesia 2027. Detail gedung dan teknis panggung dikoordinasikan panitia setempat.</description>
       <attendance />
     </event>
     <event id="konser-tur-08" type="performance">
-      <title>Tur Demo · Jakarta (penutup)</title>
+      <title>Konser penutup tur · Jakarta</title>
       <date>2027-02-27</date>
       <time>19:30</time>
-      <location>Gedung Pertunjukan Demo · Jakarta</location>
-      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <location>Jakarta, Indonesia</location>
+      <description>Rangkaian tur Indonesia 2027. Detail gedung dan teknis panggung dikoordinasikan panitia setempat.</description>
       <attendance />
     </event>
   </calendar>
