@@ -5,8 +5,9 @@ Aplikasi sumber terbuka, berbahasa Indonesia, untuk mengelola orchestra angklung
 ## Fitur
 
 - Daftar pemain, bagian, informasi kontak, catatan, dan instrumen yang dipegang.
-- Bank instrumen awal: Angklung Melodi 0–30 memakai Scientific Pitch Notation, dari 0 = F#3, 6 = C4, 18 = C5, hingga 30 = C6; Bass `g`–`f` bernada G2–F3 (melanjutkan turun dari Melodi 0 = F#3); Angklung Gajah `G`–`F` bernada G1–F2, satu oktaf di bawah Bass.
-- Catat jumlah stok untuk setiap label angklung (termasuk beberapa unit dengan nada yang sama), lalu alokasikan jumlah unit yang dipegang setiap pemain.
+- Set Angklung mencakup Melodi 0–30 (F#3–C6), Melodi tambahan 31–35 (C#6–F6), Bass g–f (G2–F3), Gajah G–F (G1–F2), dan Angklung Chord per label akor serta ukuran kecil/besar. Alat Tambahan (AlTam) dikelola terpisah, misalnya Contrabass, Violin, dan Gitar.
+- Catat jumlah unit persediaan untuk setiap label angklung (termasuk beberapa unit dengan nada yang sama), lalu alokasikan jumlah unit yang dipegang setiap pemain.
+- Pisahkan inventaris Set Angklung dari Alat Tambahan (AlTam), dengan kategori khusus untuk melodi tambahan 31–35 dan Angklung Chord kecil/besar.
 - Setiap pitch mutlak ditampilkan bersama konversi angka relatif terhadap Do= lagu. Konversi notasi menggunakan angka relatif: `/` untuk nada setengah laras lebih tinggi (C# = 1/ saat Do=C), `\` untuk setengah laras lebih rendah (Db = 2\), `^` untuk oktaf atas, dan `.` untuk oktaf bawah. Contohnya C5 = 1^ dan C3 = 1.. saat Do=C. Pitch acuan dapat diedit untuk mencocokkan set orchestra Anda.
 - Repertoar lagu dengan komposer, Do=, sistem nada, tempo, tautan partitur, instrumen/bagian, notasi per birama atau frasa, dan catatan latihan.
 - Kalender latihan dengan pengulangan mingguan, dua mingguan, atau bulanan sampai tanggal yang dipilih. Setiap tanggal memiliki absensinya sendiri.
@@ -40,7 +41,7 @@ Data orchestra tersimpan di penyimpanan lokal browser pada perangkat yang sedang
 
 ## Struktur XML
 
-Ekspor XML memiliki root `<rumpun version="5">` dan bagian `<orchestra>`, `<players>`, `<instruments>`, `<songs>`, serta `<calendar>`. Penugasan pemain menyimpan jumlah unit per label, absensi disertakan, dan lagu menyimpan Do= beserta notasi. Relasi lagu terhadap instrumen disimpan sebagai `<instrumentRef>`. XML hasil ekspor dapat diimpor kembali ke Rumpun.
+Ekspor XML memiliki root `<rumpun version="8">` dan bagian `<orchestra>`, `<players>`, `<instruments>`, `<songs>`, serta `<calendar>`. Penugasan pemain menyimpan jumlah unit per label, absensi disertakan, dan lagu menyimpan Do= beserta notasi. Relasi lagu terhadap instrumen disimpan sebagai `<instrumentRef>`. XML hasil ekspor dapat diimpor kembali ke Rumpun.
 
 ## Batasan saat ini
 
