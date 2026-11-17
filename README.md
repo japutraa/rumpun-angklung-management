@@ -15,7 +15,7 @@ Aplikasi sumber terbuka, berbahasa Indonesia, untuk mengelola orchestra angklung
 - Kalender latihan dengan pengulangan mingguan, dua mingguan, atau bulanan sampai tanggal yang dipilih. Setiap tanggal memiliki absensinya sendiri.
 - Ringkasan timeline menuju penampilan berikutnya, jumlah latihan terjadwal sebelumnya, dan peringatan jika penampilan berjarak 14 hari atau kurang.
 - Penyimpanan otomatis di `localStorage` browser.
-- Ekspor/impor seluruh data sebagai XML atau JSON. Contoh XML fiktif berisi 45 pemain, 20 lagu, dan pembagian instrumen lengkap tersedia di [`contoh/rumpun-demo-orchestra-45-anggota.xml`](contoh/rumpun-demo-orchestra-45-anggota.xml).
+- Ekspor/impor seluruh data sebagai XML atau JSON. Contoh XML berisi 45 profil nama sintetis Indonesia, Jerman, dan internasional, 20 lagu, serta pembagian instrumen lengkap tersedia di [`contoh/rumpun-demo-orchestra-45-anggota.xml`](contoh/rumpun-demo-orchestra-45-anggota.xml).
 - Tata letak responsif untuk desktop dan ponsel.
 
 ## Menjalankan secara lokal
