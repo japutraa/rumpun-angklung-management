@@ -15,7 +15,7 @@ Aplikasi sumber terbuka, berbahasa Indonesia, untuk mengelola orchestra angklung
 - Kalender latihan dengan pengulangan mingguan, dua mingguan, atau bulanan sampai tanggal yang dipilih. Setiap tanggal memiliki absensinya sendiri.
 - Ringkasan timeline menuju penampilan berikutnya, jumlah latihan terjadwal sebelumnya, dan peringatan jika penampilan berjarak 14 hari atau kurang.
 - Penyimpanan otomatis di `localStorage` browser.
-- Ekspor/impor seluruh data sebagai XML atau JSON.
+- Ekspor/impor seluruh data sebagai XML atau JSON. Contoh XML fiktif berisi 45 pemain, 20 lagu, dan pembagian instrumen lengkap tersedia di [`contoh/rumpun-demo-orchestra-45-anggota.xml`](contoh/rumpun-demo-orchestra-45-anggota.xml).
 - Tata letak responsif untuk desktop dan ponsel.
 
 ## Menjalankan secara lokal
@@ -43,7 +43,7 @@ Data orchestra tersimpan di penyimpanan lokal browser pada perangkat yang sedang
 
 ## Struktur XML
 
-Ekspor XML memiliki root `<rumpun version="9">` dan bagian `<orchestra>`, `<players>`, `<instruments>`, `<songs>`, serta `<calendar>`. Penugasan pemain menyimpan jumlah unit per label, absensi disertakan, dan lagu menyimpan Do= beserta notasi. Relasi lagu terhadap instrumen disimpan sebagai `<instrumentRef>`. XML hasil ekspor dapat diimpor kembali ke Rumpun.
+Ekspor XML memiliki root `<rumpun version="9">` dan bagian `<orchestra>`, `<players>`, `<instruments>`, `<songs>`, serta `<calendar>`. Penugasan pemain menyimpan jumlah unit per label, absensi disertakan, dan lagu menyimpan Do= beserta notasi. Relasi lagu terhadap instrumen disimpan sebagai `<instrumentRef>`. Contoh repertoar mencantumkan seluruh 36 label Melodi, 11 Bass, 11 Gajah, dan enam unit Accomp per lagu, serta contoh enam lapisan notasi serentak. XML hasil ekspor dapat diimpor kembali ke Rumpun.
 
 ## Batasan saat ini
 
