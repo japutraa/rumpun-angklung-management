@@ -101,3 +101,27 @@
 .song-instrument-summary{display:flex;flex-direction:column;gap:4px;max-width:360px;padding:8px 10px;border-radius:8px;background:#f1f4ed}.song-instrument-summary b{font-size:10px;color:var(--green)}.song-instrument-summary small{font-size:9px;color:var(--muted);line-height:1.5}.data-table td .song-instrument-summary{margin:2px 0}
 :root[data-theme="dark"] .song-instrument-summary{background:#26382c}
 :root[data-theme="dark"] .song-instrument-summary b{color:#b9d7b6}
+
+/* Compact player instrument assignments and grouped repertoire keys */
+.player-instrument-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:4px;min-width:230px}
+.player-instrument{min-width:0;max-width:100%;margin:0;padding:5px 7px;border:1px solid var(--line);border-radius:7px;background:#f8f9f5}
+.player-instrument-top{display:flex;align-items:center;justify-content:space-between;gap:6px;line-height:1.25}
+.player-instrument-top b{font-size:9px;white-space:normal}
+.player-instrument-top>span{font-size:9px;font-weight:700;color:#6b7b6d;white-space:nowrap}
+.player-instrument-uses{display:flex;flex-wrap:wrap;gap:2px 5px;margin-top:4px}
+.instrument-do-group{display:inline-flex;flex-wrap:wrap;align-items:baseline;gap:2px 4px;max-width:100%;padding:2px 4px;border-radius:4px;background:#eef2e9;font-size:8px;line-height:1.35}
+.instrument-do-group b{color:var(--green);font-size:8px;white-space:nowrap}
+.instrument-do-group span{color:var(--muted);overflow-wrap:anywhere}
+.instrument-do-group em{font-style:normal;font-weight:700;color:var(--green2);white-space:nowrap}
+.player-instrument-unused{display:block;margin-top:3px;color:var(--muted);font-size:8px}
+.repertoire-key-group td{padding:8px 10px;background:#f1f5ec;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.repertoire-key-group b{color:var(--green);font:700 11px Manrope}
+.repertoire-key-group span{margin-left:9px;color:var(--muted);font-size:9px}
+.repertoire-table td{padding-top:9px;padding-bottom:9px}
+:root[data-theme="dark"] .player-instrument{background:#1d2a22}
+:root[data-theme="dark"] .player-instrument-top>span{color:#e1c47c}
+:root[data-theme="dark"] .instrument-do-group{background:#26382c}
+:root[data-theme="dark"] .instrument-do-group b,:root[data-theme="dark"] .instrument-do-group em{color:#b9d7b6}
+:root[data-theme="dark"] .repertoire-key-group td{background:#25352b}
+:root[data-theme="dark"] .repertoire-key-group b{color:#b9d7b6}
+@media(max-width:720px){.player-instrument-list{grid-template-columns:1fr;min-width:180px}}
