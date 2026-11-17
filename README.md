@@ -10,7 +10,8 @@ Aplikasi sumber terbuka, berbahasa Indonesia, untuk mengelola orchestra angklung
 - Set Accomp bawaan berisi akor G, A, B, C, Dm, Em, Fm, G7, A7, A#7, B7, C7, D7, E7, F7, F#7, dan Bb (Bes). Setiap akor tersedia sebagai Accomp Besar (wilayah rendah) dan Accomp Kecil (wilayah lebih tinggi); ukuran tercantum pada nama instrumen. Triad memakai 3 tabung, akor dominan 7 memakai 4 tabung. Catatan teknik: kurulung (getar panjang), cetok (aksen pendek), dan tangkep (menahan tabung septim saat yang diminta hanya triad).
 - Pisahkan inventaris Set Angklung dari Alat Tambahan (AlTam), dengan kategori khusus untuk melodi tambahan 31–35 dan set Accomp Besar/Kecil.
 - Setiap pitch mutlak ditampilkan bersama konversi angka relatif terhadap Do= lagu. Konversi notasi menggunakan angka relatif: `/` untuk nada setengah laras lebih tinggi (C# = 1/ saat Do=C), `\` untuk setengah laras lebih rendah (Db = 2\), `^` untuk oktaf atas, dan `.` untuk oktaf bawah. Contohnya C5 = 1^ dan C3 = 1.. saat Do=C. Pitch acuan dapat diedit untuk mencocokkan set orchestra Anda.
-- Repertoar lagu dengan komposer, Do=, sistem nada, tempo, tautan partitur, instrumen/bagian, notasi per birama atau frasa, dan catatan latihan.
+- Repertoar lagu dengan komposer, Do=, sistem nada, tempo, tautan partitur, instrumen/bagian, notasi per birama atau frasa, dan catatan latihan. Cakupan instrumen dapat meliputi seluruh 36 nada Melodi, Bass g–f, Gajah G–F, serta partitur berlapis yang menunjukkan beberapa bagian berbunyi serentak.
+- Tema gelap dengan palet hijau dan aksen kuning yang sama; pilihan tema disimpan di browser.
 - Kalender latihan dengan pengulangan mingguan, dua mingguan, atau bulanan sampai tanggal yang dipilih. Setiap tanggal memiliki absensinya sendiri.
 - Ringkasan timeline menuju penampilan berikutnya, jumlah latihan terjadwal sebelumnya, dan peringatan jika penampilan berjarak 14 hari atau kurang.
 - Penyimpanan otomatis di `localStorage` browser.
