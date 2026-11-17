@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f5ef"><meta name="description" content="Perangkat pengelolaan orchestra angklung: pemain, instrumen, repertoar, notasi, dan jadwal latihan.">
+  <title>Rumpun — Manajemen Orchestra Angklung</title><link rel="icon" href="assets/icon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="#beranda"><span class="brand-mark">♪</span><span><b>rumpun</b><small>ORCHESTRA MANAGER</small></span></a>
+    <div class="side-label">RUANG KERJA</div>
+    <nav class="nav-list">
+      <button class="nav-item active" data-page="beranda"><span>◫</span> Ringkasan</button>
+      <button class="nav-item" data-page="pemain"><span>♧</span> Pemain <i id="playerNavCount">0</i></button>
+      <button class="nav-item" data-page="instrumen"><span>♫</span> Instrumen <i id="instrumentNavCount">0</i></button>
+      <button class="nav-item" data-page="repertoar"><span>▤</span> Repertoar <i id="songNavCount">0</i></button>
+      <button class="nav-item" data-page="kalender"><span>▦</span> Kalender</button>
+    </nav>
+    <div class="sidebar-bottom"><div class="storage-card"><span class="storage-dot"></span><div><b>Tersimpan di perangkat</b><small id="savedStatus">Data Anda tersimpan lokal</small></div></div><button class="nav-item" data-page="data"><span>↗</span> Ekspor & cadangan</button><div class="side-footer">Sederhana, bersama-sama.<br>Dirancang untuk orchestra angklung.</div></div>
+  </aside>
+  <main class="main-area">
+    <header class="topbar"><button class="menu-toggle" id="menuToggle" aria-label="Buka navigasi">☰</button><div class="breadcrumb">Rumpun <span>/</span> <b id="pageCrumb">Ringkasan</b></div><div class="top-actions"><span class="local-badge"><span></span> OFFLINE READY</span><button class="avatar" title="Orchestra">A</button></div></header>
+    <div id="pageContent" class="page-content"></div>
+  </main>
+</div>
+<div id="modalRoot"></div><input type="file" id="importFile" accept=".json,.xml,application/json,text/xml" hidden>
+<script src="app.js"></script>
+</body></html>
