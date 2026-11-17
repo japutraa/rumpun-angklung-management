@@ -5,10 +5,11 @@ Aplikasi sumber terbuka, berbahasa Indonesia, untuk mengelola orchestra angklung
 ## Fitur
 
 - Daftar pemain, bagian, informasi kontak, catatan, dan instrumen yang dipegang.
-- Bank instrumen awal: Angklung Melodi 0–35, Bass 1–6, dan Angklung Gajah. Tambahkan jenis instrumen lain sesuai kebutuhan.
+- Bank instrumen awal: Angklung Melodi 0–35 (nomor 0 = F#), Bass berlabel `g`–`f`, dan Angklung Gajah berlabel `G`–`F`.
+- Catat jumlah stok untuk setiap label angklung (termasuk beberapa unit dengan nada yang sama), lalu alokasikan jumlah unit yang dipegang setiap pemain.
 - Nada acuan instrumen dapat diedit agar cocok dengan penyeteman dan penomoran set angklung orchestra Anda.
 - Repertoar lagu dengan komposer, Do=, sistem nada, tempo, tautan partitur, instrumen/bagian, notasi per birama atau frasa, dan catatan latihan.
-- Kalender bulanan untuk latihan, penampilan, dan agenda lainnya.
+- Kalender bulanan, absensi pemain (hadir, izin, sakit, alpa), dan timeline dari rangkaian latihan sampai pertunjukan.
 - Penyimpanan otomatis di `localStorage` browser.
 - Ekspor/impor seluruh data sebagai XML atau JSON.
 - Tata letak responsif untuk desktop dan ponsel.
