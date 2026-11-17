@@ -1,0 +1,2746 @@
+Warning: truncated output (original token count: 39114)
+Total output lines: 3459
+
+<?xml version='1.0' encoding='utf-8'?>
+<rumpun version="9">
+  <orchestra>
+    <name>Orchestra Demo 45 · Data Fiktif</name>
+    <conductor>Konduktor Demo</conductor>
+    <location>Lokasi contoh · bukan data kelompok nyata</location>
+  </orchestra>
+  <players>
+    <player id="angklung-01">
+      <name>Pemain Set Angklung Demo 01</name>
+      <section>Set Angklung · Bass g, Melodi 2</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-g" quantity="1" />
+        <instrumentAssignment ref="mel-2" quantity="1" />
+        <instrumentAssignment ref="gajah-G" quantity="1" />
+        <instrumentAssignment ref="mel-0" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-02">
+      <name>Pemain Set Angklung Demo 02</name>
+      <section>Set Angklung · Bass g, Melodi 2</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-g" quantity="1" />
+        <instrumentAssignment ref="mel-2" quantity="1" />
+        <instrumentAssignment ref="gajah-G" quantity="1" />
+        <instrumentAssignment ref="mel-1" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-03">
+      <name>Pemain Set Angklung Demo 03</name>
+      <section>Set Angklung · Bass g, Melodi 2</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-g" quantity="1" />
+        <instrumentAssignment ref="mel-2" quantity="1" />
+        <instrumentAssignment ref="mel-13" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-04">
+      <name>Pemain Set Angklung Demo 04</name>
+      <section>Set Angklung · Bass g#, Melodi 3</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-gs" quantity="1" />
+        <instrumentAssignment ref="mel-3" quantity="1" />
+        <instrumentAssignment ref="gajah-Gs" quantity="1" />
+        <instrumentAssignment ref="mel-14" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-05">
+      <name>Pemain Set Angklung Demo 05</name>
+      <section>Set Angklung · Bass g#, Melodi 3</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-gs" quantity="1" />
+        <instrumentAssignment ref="mel-3" quantity="1" />
+        <instrumentAssignment ref="gajah-Gs" quantity="1" />
+        <instrumentAssignment ref="mel-15" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-06">
+      <name>Pemain Set Angklung Demo 06</name>
+      <section>Set Angklung · Bass g#, Melodi 3</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-gs" quantity="1" />
+        <instrumentAssignment ref="mel-3" quantity="1" />
+        <instrumentAssignment ref="mel-16" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-07">
+      <name>Pemain Set Angklung Demo 07</name>
+      <section>Set Angklung · Bass a, Melodi 4</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-a" quantity="1" />
+        <instrumentAssignment ref="mel-4" quantity="1" />
+        <instrumentAssignment ref="gajah-A" quantity="1" />
+        <instrumentAssignment ref="mel-17" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-08">
+      <name>Pemain Set Angklung Demo 08</name>
+      <section>Set Angklung · Bass a, Melodi 4</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-a" quantity="1" />
+        <instrumentAssignment ref="mel-4" quantity="1" />
+        <instrumentAssignment ref="gajah-A" quantity="1" />
+        <instrumentAssignment ref="mel-18" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-09">
+      <name>Pemain Set Angklung Demo 09</name>
+      <section>Set Angklung · Bass a, Melodi 4</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-a" quantity="1" />
+        <instrumentAssignment ref="mel-4" quantity="1" />
+        <instrumentAssignment ref="mel-19" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-10">
+      <name>Pemain Set Angklung Demo 10</name>
+      <section>Set Angklung · Bass a#, Melodi 5</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-as" quantity="1" />
+        <instrumentAssignment ref="mel-5" quantity="1" />
+        <instrumentAssignment ref="gajah-As" quantity="1" />
+        <instrumentAssignment ref="mel-20" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-11">
+      <name>Pemain Set Angklung Demo 11</name>
+      <section>Set Angklung · Bass a#, Melodi 5</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-as" quantity="1" />
+        <instrumentAssignment ref="mel-5" quantity="1" />
+        <instrumentAssignment ref="gajah-As" quantity="1" />
+        <instrumentAssignment ref="mel-21" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-12">
+      <name>Pemain Set Angklung Demo 12</name>
+      <section>Set Angklung · Bass a#, Melodi 5</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-as" quantity="1" />
+        <instrumentAssignment ref="mel-5" quantity="1" />
+        <instrumentAssignment ref="mel-22" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-13">
+      <name>Pemain Set Angklung Demo 13</name>
+      <section>Set Angklung · Bass b, Melodi 6</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-b" quantity="1" />
+        <instrumentAssignment ref="mel-6" quantity="1" />
+        <instrumentAssignment ref="gajah-B" quantity="1" />
+        <instrumentAssignment ref="mel-23" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-14">
+      <name>Pemain Set Angklung Demo 14</name>
+      <section>Set Angklung · Bass b, Melodi 6</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-b" quantity="1" />
+        <instrumentAssignment ref="mel-6" quantity="1" />
+        <instrumentAssignment ref="gajah-B" quantity="1" />
+        <instrumentAssignment ref="mel-24" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-15">
+      <name>Pemain Set Angklung Demo 15</name>
+      <section>Set Angklung · Bass b, Melodi 6</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-b" quantity="1" />
+        <instrumentAssignment ref="mel-6" quantity="1" />
+        <instrumentAssignment ref="mel-25" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-16">
+      <name>Pemain Set Angklung Demo 16</name>
+      <section>Set Angklung · Bass c, Melodi 7</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-c" quantity="1" />
+        <instrumentAssignment ref="mel-7" quantity="1" />
+        <instrumentAssignment ref="gajah-C" quantity="1" />
+        <instrumentAssignment ref="mel-26" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-17">
+      <name>Pemain Set Angklung Demo 17</name>
+      <section>Set Angklung · Bass c, Melodi 7</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-c" quantity="1" />
+        <instrumentAssignment ref="mel-7" quantity="1" />
+        <instrumentAssignment ref="gajah-C" quantity="1" />
+        <instrumentAssignment ref="mel-27" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-18">
+      <name>Pemain Set Angklung Demo 18</name>
+      <section>Set Angklung · Bass c, Melodi 7</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-c" quantity="1" />
+        <instrumentAssignment ref="mel-7" quantity="1" />
+        <instrumentAssignment ref="mel-28" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-19">
+      <name>Pemain Set Angklung Demo 19</name>
+      <section>Set Angklung · Bass c#, Melodi 8</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-cs" quantity="1" />
+        <instrumentAssignment ref="mel-8" quantity="1" />
+        <instrumentAssignment ref="gajah-Cs" quantity="1" />
+        <instrumentAssignment ref="mel-29" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-20">
+      <name>Pemain Set Angklung Demo 20</name>
+      <section>Set Angklung · Bass c#, Melodi 8</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-cs" quantity="1" />
+        <instrumentAssignment ref="mel-8" quantity="1" />
+        <instrumentAssignment ref="gajah-Cs" quantity="1" />
+        <instrumentAssignment ref="mel-30" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-21">
+      <name>Pemain Set Angklung Demo 21</name>
+      <section>Set Angklung · Bass c#, Melodi 8</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-cs" quantity="1" />
+        <instrumentAssignment ref="mel-8" quantity="1" />
+        <instrumentAssignment ref="mel-31" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-22">
+      <name>Pemain Set Angklung Demo 22</name>
+      <section>Set Angklung · Bass d, Melodi 9</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-d" quantity="1" />
+        <instrumentAssignment ref="mel-9" quantity="1" />
+        <instrumentAssignment ref="gajah-D" quantity="1" />
+        <instrumentAssignment ref="mel-32" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-23">
+      <name>Pemain Set Angklung Demo 23</name>
+      <section>Set Angklung · Bass d, Melodi 9</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-d" quantity="1" />
+        <instrumentAssignment ref="mel-9" quantity="1" />
+        <instrumentAssignment ref="gajah-D" quantity="1" />
+        <instrumentAssignment ref="mel-33" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-24">
+      <name>Pemain Set Angklung Demo 24</name>
+      <section>Set Angklung · Bass d, Melodi 9</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-d" quantity="1" />
+        <instrumentAssignment ref="mel-9" quantity="1" />
+        <instrumentAssignment ref="mel-34" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-25">
+      <name>Pemain Set Angklung Demo 25</name>
+      <section>Set Angklung · Bass d#, Melodi 10</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-ds" quantity="1" />
+        <instrumentAssignment ref="mel-10" quantity="1" />
+        <instrumentAssignment ref="gajah-Ds" quantity="1" />
+        <instrumentAssignment ref="mel-35" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-26">
+      <name>Pemain Set Angklung Demo 26</name>
+      <section>Set Angklung · Bass d#, Melodi 10</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-ds" quantity="1" />
+        <instrumentAssignment ref="mel-10" quantity="1" />
+        <instrumentAssignment ref="gajah-Ds" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-27">
+      <name>Pemain Set Angklung Demo 27</name>
+      <section>Set Angklung · Bass d#, Melodi 10</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-ds" quantity="1" />
+        <instrumentAssignment ref="mel-10" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-28">
+      <name>Pemain Set Angklung Demo 28</name>
+      <section>Set Angklung · Bass e, Melodi 11</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-e" quantity="1" />
+        <instrumentAssignment ref="mel-11" quantity="1" />
+        <instrumentAssignment ref="gajah-E" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-29">
+      <name>Pemain Set Angklung Demo 29</name>
+      <section>Set Angklung · Bass e, Melodi 11</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-e" quantity="1" />
+        <instrumentAssignment ref="mel-11" quantity="1" />
+        <instrumentAssignment ref="gajah-E" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-30">
+      <name>Pemain Set Angklung Demo 30</name>
+      <section>Set Angklung · Bass e, Melodi 11</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-e" quantity="1" />
+        <instrumentAssignment ref="mel-11" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-31">
+      <name>Pemain Set Angklung Demo 31</name>
+      <section>Set Angklung · Bass f, Melodi 12</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-f" quantity="1" />
+        <instrumentAssignment ref="mel-12" quantity="1" />
+        <instrumentAssignment ref="gajah-F" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-32">
+      <name>Pemain Set Angklung Demo 32</name>
+      <section>Set Angklung · Bass f, Melodi 12</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-f" quantity="1" />
+        <instrumentAssignment ref="mel-12" quantity="1" />
+        <instrumentAssignment ref="gajah-F" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-33">
+      <name>Pemain Set Angklung Demo 33</name>
+      <section>Set Angklung · Bass f, Melodi 12</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="bass-f" quantity="1" />
+        <instrumentAssignment ref="mel-12" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-34">
+      <name>Pemain Set Angklung Demo 34</name>
+      <section>Set Angklung · Melodi 0, Melodi 16</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="mel-0" quantity="1" />
+        <instrumentAssignment ref="mel-16" quantity="1" />
+        <instrumentAssignment ref="mel-21" quantity="1" />
+        <instrumentAssignment ref="mel-26" quantity="1" />
+        <instrumentAssignment ref="mel-31" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-35">
+      <name>Pemain Set Angklung Demo 35</name>
+      <section>Set Angklung · Melodi 1, Melodi 17</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="mel-1" quantity="1" />
+        <instrumentAssignment ref="mel-17" quantity="1" />
+        <instrumentAssignment ref="mel-22" quantity="1" />
+        <instrumentAssignment ref="mel-27" quantity="1" />
+        <instrumentAssignment ref="mel-32" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-36">
+      <name>Pemain Set Angklung Demo 36</name>
+      <section>Set Angklung · Melodi 13, Melodi 18</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="mel-13" quantity="1" />
+        <instrumentAssignment ref="mel-18" quantity="1" />
+        <instrumentAssignment ref="mel-23" quantity="1" />
+        <instrumentAssignment ref="mel-28" quantity="1" />
+        <instrumentAssignment ref="mel-33" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-37">
+      <name>Pemain Set Angklung Demo 37</name>
+      <section>Set Angklung · Melodi 14, Melodi 19</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="mel-14" quantity="1" />
+        <instrumentAssignment ref="mel-19" quantity="1" />
+        <instrumentAssignment ref="mel-24" quantity="1" />
+        <instrumentAssignment ref="mel-29" quantity="1" />
+        <instrumentAssignment ref="mel-34" quantity="1" />
+      </assignments>
+    </player>
+    <player id="angklung-38">
+      <name>Pemain Set Angklung Demo 38</name>
+      <section>Set Angklung · Melodi 15, Melodi 20</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim. Distribusi nada mengikuti set demo.</notes>
+      <assignments>
+        <instrumentAssignment ref="mel-15" quantity="1" />
+        <instrumentAssignment ref="mel-20" quantity="1" />
+        <instrumentAssignment ref="mel-25" quantity="1" />
+        <instrumentAssignment ref="mel-30" quantity="1" />
+        <instrumentAssignment ref="mel-35" quantity="1" />
+      </assignments>
+    </player>
+    <player id="accomp-01">
+      <name>Pemain Accomp Demo 01</name>
+      <section>Accomp (Chord)</section>
+      <email />
+      <phone />
+      <notes>Pemain khusus Accomp. Berbagi set akor standar; setiap pemain menangani 17 label akor pada demo ini.</notes>
+      <assignments>
+        <instrumentAssignment ref="accomp-besar-a" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-asharp7" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-a7" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-flat" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-flat7" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-flatflat" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-c" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-c7" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-d7" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-dm" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-e7" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-em" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-fsharp7" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-f7" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-fm" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-g" quantity="1" />
+        <instrumentAssignment ref="accomp-besar-g7" quantity="1" />
+      </assignments>
+    </player>
+    <player id="accomp-02">
+      <name>Pemain Accomp Demo 02</name>
+      <section>Accomp (Chord)</section>
+      <email />
+      <phone />
+      <notes>Pemain khusus Accomp. Berbagi set akor standar; setiap pemain menangani 17 label akor pada demo ini.</notes>
+      <assignments>
+        <instrumentAssignment ref="accomp-kecil-a" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-asharp7" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-a7" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-flat" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-flat7" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-flatflat" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-c" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-c7" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-d7" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-dm" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-e7" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-em" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-fsharp7" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-f7" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-fm" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-g" quantity="1" />
+        <instrumentAssignment ref="accomp-kecil-g7" quantity="1" />
+      </assignments>
+    </player>
+    <player id="altam-01">
+      <name>Pemain AlTam Demo 01</name>
+      <section>Alat Tambahan (AlTam)</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <assignments>
+        <instrumentAssignment ref="altam-contrabass" quantity="1" />
+        <instrumentAssignment ref="altam-suling" quantity="1" />
+      </assignments>
+    </player>
+    <player id="altam-02">
+      <name>Pemain AlTam Demo 02</name>
+      <section>Alat Tambahan (AlTam)</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <assignments>
+        <instrumentAssignment ref="altam-violin" quantity="1" />
+        <instrumentAssignment ref="altam-keyboard" quantity="1" />
+      </assignments>
+    </player>
+    <player id="altam-03">
+      <name>Pemain AlTam Demo 03</name>
+      <section>Alat Tambahan (AlTam)</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <assignments>
+        <instrumentAssignment ref="altam-cello" quantity="1" />
+        <instrumentAssignment ref="altam-gong" quantity="1" />
+      </assignments>
+    </player>
+    <player id="altam-04">
+      <name>Pemain AlTam Demo 04</name>
+      <section>Alat Tambahan (AlTam)</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <assignments>
+        <instrumentAssignment ref="altam-gitar" quantity="1" />
+      </assignments>
+    </player>
+    <player id="altam-05">
+      <name>Pemain AlTam Demo 05</name>
+      <section>Alat Tambahan (AlTam)</section>
+      <email />
+      <phone />
+      <notes>Data contoh anonim; bukan pemegang Set Angklung.</notes>
+      <assignments>
+        <instrumentAssignment ref="altam-cajon" quantity="1" />
+      </assignments>
+    </player>
+  </players>
+  <instruments>
+    <instrument id="mel-0" family="melodi">
+      <name>Melodi 0</name>
+      <number>0</number>
+      <pitch>F#3</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-1" family="melodi">
+      <name>Melodi 1</name>
+      <number>1</number>
+      <pitch>G3</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-2" family="melodi">
+      <name>Melodi 2</name>
+      <number>2</number>
+      <pitch>G#3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass g satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-3" family="melodi">
+      <name>Melodi 3</name>
+      <number>3</number>
+      <pitch>A3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass g# satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-4" family="melodi">
+      <name>Melodi 4</name>
+      <number>4</number>
+      <pitch>A#3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass a satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-5" family="melodi">
+      <name>Melodi 5</name>
+      <number>5</number>
+      <pitch>B3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass a# satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-6" family="melodi">
+      <name>Melodi 6</name>
+      <number>6</number>
+      <pitch>C4</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass b satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-7" family="melodi">
+      <name>Melodi 7</name>
+      <number>7</number>
+      <pitch>C#4</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass c satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-8" family="melodi">
+      <name>Melodi 8</name>
+      <number>8</number>
+      <pitch>D4</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass c# satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-9" family="melodi">
+      <name>Melodi 9</name>
+      <number>9</number>
+      <pitch>D#4</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass d satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-10" family="melodi">
+      <name>Melodi 10</name>
+      <number>10</number>
+      <pitch>E4</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass d# satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-11" family="melodi">
+      <name>Melodi 11</name>
+      <number>11</number>
+      <pitch>F4</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass e satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-12" family="melodi">
+      <name>Melodi 12</name>
+      <number>12</number>
+      <pitch>F#4</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; pasangan Bass f satu oktaf + satu semiton di atas.</notes>
+    </instrument>
+    <instrument id="mel-13" family="melodi">
+      <name>Melodi 13</name>
+      <number>13</number>
+      <pitch>G4</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-14" family="melodi">
+      <name>Melodi 14</name>
+      <number>14</number>
+      <pitch>G#4</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-15" family="melodi">
+      <name>Melodi 15</name>
+      <number>15</number>
+      <pitch>A4</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-16" family="melodi">
+      <name>Melodi 16</name>
+      <number>16</number>
+      <pitch>A#4</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-17" family="melodi">
+      <name>Melodi 17</name>
+      <number>17</number>
+      <pitch>B4</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-18" family="melodi">
+      <name>Melodi 18</name>
+      <number>18</number>
+      <pitch>C5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-19" family="melodi">
+      <name>Melodi 19</name>
+      <number>19</number>
+      <pitch>C#5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-20" family="melodi">
+      <name>Melodi 20</name>
+      <number>20</number>
+      <pitch>D5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-21" family="melodi">
+      <name>Melodi 21</name>
+      <number>21</number>
+      <pitch>D#5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-22" family="melodi">
+      <name>Melodi 22</name>
+      <number>22</number>
+      <pitch>E5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-23" family="melodi">
+      <name>Melodi 23</name>
+      <number>23</number>
+      <pitch>F5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-24" family="melodi">
+      <name>Melodi 24</name>
+      <number>24</number>
+      <pitch>F#5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-25" family="melodi">
+      <name>Melodi 25</name>
+      <number>25</number>
+      <pitch>G5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-26" family="melodi">
+      <name>Melodi 26</name>
+      <number>26</number>
+      <pitch>G#5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-27" family="melodi">
+      <name>Melodi 27</name>
+      <number>27</number>
+      <pitch>A5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-28" family="melodi">
+      <name>Melodi 28</name>
+      <number>28</number>
+      <pitch>A#5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-29" family="melodi">
+      <name>Melodi 29</name>
+      <number>29</number>
+      <pitch>B5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-30" family="melodi">
+      <name>Melodi 30</name>
+      <number>30</number>
+      <pitch>C6</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-31" family="melodiTambahan">
+      <name>Melodi 31</name>
+      <number>31</number>
+      <pitch>C#6</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-32" family="melodiTambahan">
+      <name>Melodi 32</name>
+      <number>32</number>
+      <pitch>D6</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-33" family="melodiTambahan">
+      <name>Melodi 33</name>
+      <number>33</number>
+      <pitch>D#6</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-34" family="melodiTambahan">
+      <name>Melodi 34</name>
+      <number>34</number>
+      <pitch>E6</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="mel-35" family="melodiTambahan">
+      <name>Melodi 35</name>
+      <number>35</number>
+      <pitch>F6</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="bass-g" family="bass">
+      <name>Bass g</name>
+      <number>g</number>
+      <pitch>G2</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 2 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-gs" family="bass">
+      <name>Bass g#</name>
+      <number>g#</number>
+      <pitch>G#2</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 3 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-a" family="bass">
+      <name>Bass a</name>
+      <number>a</number>
+      <pitch>A2</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 4 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-as" family="bass">
+      <name>Bass a#</name>
+      <number>a#</number>
+      <pitch>A#2</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 5 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-b" family="bass">
+      <name>Bass b</name>
+      <number>b</number>
+      <pitch>B2</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 6 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-c" family="bass">
+      <name>Bass c</name>
+      <number>c</number>
+      <pitch>C3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 7 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-cs" family="bass">
+      <name>Bass c#</name>
+      <number>c#</number>
+      <pitch>C#3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 8 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-d" family="bass">
+      <name>Bass d</name>
+      <number>d</number>
+      <pitch>D3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 9 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-ds" family="bass">
+      <name>Bass d#</name>
+      <number>d#</number>
+      <pitch>D#3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 10 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-e" family="bass">
+      <name>Bass e</name>
+      <number>e</number>
+      <pitch>E3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 11 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="bass-f" family="bass">
+      <name>Bass f</name>
+      <number>f</number>
+      <pitch>F3</pitch>
+      <quantity>3</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 3 unit; dipasangkan dengan Melodi 12 (+13 semiton dari pitch Bass).</notes>
+    </instrument>
+    <instrument id="gajah-G" family="gajah">
+      <name>Gajah G</name>
+      <number>G</number>
+      <pitch>G1</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-Gs" family="gajah">
+      <name>Gajah G#</name>
+      <number>G#</number>
+      <pitch>G#1</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-A" family="gajah">
+      <name>Gajah A</name>
+      <number>A</number>
+      <pitch>A1</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-As" family="gajah">
+      <name>Gajah A#</name>
+      <number>A#</number>
+      <pitch>A#1</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-B" family="gajah">
+      <name>Gajah B</name>
+      <number>B</number>
+      <pitch>B1</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-C" family="gajah">
+      <name>Gajah C</name>
+      <number>C</number>
+      <pitch>C2</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-Cs" family="gajah">
+      <name>Gajah C#</name>
+      <number>C#</number>
+      <pitch>C#2</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-D" family="gajah">
+      <name>Gajah D</name>
+      <number>D</number>
+      <pitch>D2</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-Ds" family="gajah">
+      <name>Gajah D#</name>
+      <number>D#</number>
+      <pitch>D#2</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-E" family="gajah">
+      <name>Gajah E</name>
+      <number>E</number>
+      <pitch>E2</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="gajah-F" family="gajah">
+      <name>Gajah F</name>
+      <number>F</number>
+      <pitch>F2</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Demo: 2 unit identik; dibagikan kepada 2 pemain.</notes>
+    </instrument>
+    <instrument id="accomp-besar-g" family="chord">
+      <name>Accomp Besar G</name>
+      <number>G</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-a" family="chord">
+      <name>Accomp Besar A</name>
+      <number>A</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-flat" family="chord">
+      <name>Accomp Besar B</name>
+      <number>B</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-c" family="chord">
+      <name>Accomp Besar C</name>
+      <number>C</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-dm" family="chord">
+      <name>Accomp Besar Dm</name>
+      <number>Dm</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-em" family="chord">
+      <name>Accomp Besar Em</name>
+      <number>Em</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-fm" family="chord">
+      <name>Accomp Besar Fm</name>
+      <number>Fm</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-g7" family="chord">
+      <name>Accomp Besar G7</name>
+      <number>G7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-a7" family="chord">
+      <name>Accomp Besar A7</name>
+      <number>A7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-asharp7" family="chord">
+      <name>Accomp Besar A#7</name>
+      <number>A#7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-flat7" family="chord">
+      <name>Accomp Besar B7</name>
+      <number>B7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-c7" family="chord">
+      <name>Accomp Besar C7</name>
+      <number>C7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-d7" family="chord">
+      <name>Accomp Besar D7</name>
+      <number>D7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-e7" family="chord">
+      <name>Accomp Besar E7</name>
+      <number>E7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-f7" family="chord">
+      <name>Accomp Besar F7</name>
+      <number>F7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-fsharp7" family="chord">
+      <name>Accomp Besar F#7</name>
+      <number>F#7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-besar-flatflat" family="chord">
+      <name>Accomp Besar Bb</name>
+      <number>Bb</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-g" family="chord">
+      <name>Accomp Kecil G</name>
+      <number>G</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-a" family="chord">
+      <name>Accomp Kecil A</name>
+      <number>A</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-flat" family="chord">
+      <name>Accomp Kecil B</name>
+      <number>B</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-c" family="chord">
+      <name>Accomp Kecil C</name>
+      <number>C</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-dm" family="chord">
+      <name>Accomp Kecil Dm</name>
+      <number>Dm</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-em" family="chord">
+      <name>Accomp Kecil Em</name>
+      <number>Em</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-fm" family="chord">
+      <name>Accomp Kecil Fm</name>
+      <number>Fm</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor triad mayor/minor · 3 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-g7" family="chord">
+      <name>Accomp Kecil G7</name>
+      <number>G7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-a7" family="chord">
+      <name>Accomp Kecil A7</name>
+      <number>A7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-asharp7" family="chord">
+      <name>Accomp Kecil A#7</name>
+      <number>A#7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-flat7" family="chord">
+      <name>Accomp Kecil B7</name>
+      <number>B7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-c7" family="chord">
+      <name>Accomp Kecil C7</name>
+      <number>C7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-d7" family="chord">
+      <name>Accomp Kecil D7</name>
+      <number>D7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-e7" family="chord">
+      <name>Accomp Kecil E7</name>
+      <number>E7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-f7" family="chord">
+      <name>Accomp Kecil F7</name>
+      <number>F7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-fsharp7" family="chord">
+      <name>Accomp Kecil F#7</name>
+      <number>F#7</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="accomp-kecil-flatflat" family="chord">
+      <name>Accomp Kecil Bb</name>
+      <number>Bb</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Akor dominan septim · 4 tabung.</notes>
+    </instrument>
+    <instrument id="altam-contrabass" family="altam">
+      <name>Kontrabas</name>
+      <number>Kontrabas</number>
+      <pitch>E1</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+    </instrument>
+    <instrument id="altam-violin" family="altam">
+      <name>Biola</name>
+      <number>Biola</number>
+      <pitch>G3</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+    </instrument>
+    <instrument id="altam-cello" family="altam">
+      <name>Cello</name>
+      <number>Cello</number>
+      <pitch>C2</pitch>
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+    </instrument>
+    <instrument id="altam-gitar" family="altam">
+      <name>Gitar</name>
+      <number>Gitar</number>
+      <pitch>E2</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+    </instrument>
+    <instrument id="altam-cajon" family="altam">
+      <name>Cajon</name>
+      <number>Perkusi</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+    </instrument>
+    <instrument id="altam-suling" family="altam">
+      <name>Suling</name>
+      <number>Suling</number>
+      <pitch>C5</pitch>
+      <quantity>2</quantity>
+      <status>tersedia</status>
+      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+    </instrument>
+    <instrument id="altam-keyboard" family="altam">
+      <name>Keyboard</name>
+      <number>Keyboard</number>
+      <pitch>C4</pitch>
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+    </instrument>
+    <instrument id="altam-gong" family="altam">
+      <name>Gong</name>
+      <number>Perkusi</number>
+      <pitch />
+      <quantity>1</quantity>
+      <status>tersedia</status>
+      <notes>Alat Tambahan (AlTam) · unit demo.</notes>
+    </instrument>
+  </instruments>
+  <songs>
+    <song id="lagu-01">
+      <title>Pagi di Saung</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>C</do>
+      <scale>diatonis</scale>
+      <tempo>80</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-g</instrumentRef>
+        <instrumentRef>accomp-kecil-g</instrumentRef>
+        <instrumentRef>accomp-besar-c</instrumentRef>
+        <instrumentRef>accomp-kecil-c</instrumentRef>
+        <instrumentRef>accomp-besar-em</instrumentRef>
+        <instrumentRef>accomp-kecil-em</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-02">
+      <title>Hujan di Kebun Teh</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>G</do>
+      <scale>diatonis</scale>
+      <tempo>87</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-c</instrumentRef>
+        <instrumentRef>accomp-kecil-c</instrumentRef>
+        <instrumentRef>accomp-besar-fm</instrumentRef>
+        <instrumentRef>accomp-kecil-fm</instrumentRef>
+        <instrumentRef>accomp-besar-a7</instrumentRef>
+        <instrumentRef>accomp-kecil…9114 tokens truncated…Ref>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-e7</instrumentRef>
+        <instrumentRef>accomp-kecil-e7</instrumentRef>
+        <instrumentRef>accomp-besar-flatflat</instrumentRef>
+        <instrumentRef>accomp-kecil-flatflat</instrumentRef>
+        <instrumentRef>accomp-besar-a</instrumentRef>
+        <instrumentRef>accomp-kecil-a</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-12">
+      <title>Kupu-Kupu Pagi</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>A</do>
+      <scale>diatonis</scale>
+      <tempo>106</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-flatflat</instrumentRef>
+        <instrumentRef>accomp-kecil-flatflat</instrumentRef>
+        <instrumentRef>accomp-besar-flat</instrumentRef>
+        <instrumentRef>accomp-kecil-flat</instrumentRef>
+        <instrumentRef>accomp-besar-dm</instrumentRef>
+        <instrumentRef>accomp-kecil-dm</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-13">
+      <title>Kota yang Menari</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>G</do>
+      <scale>diatonis</scale>
+      <tempo>113</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-flat</instrumentRef>
+        <instrumentRef>accomp-kecil-flat</instrumentRef>
+        <instrumentRef>accomp-besar-em</instrumentRef>
+        <instrumentRef>accomp-kecil-em</instrumentRef>
+        <instrumentRef>accomp-besar-g7</instrumentRef>
+        <instrumentRef>accomp-kecil-g7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-14">
+      <title>Perjalanan Utara</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>D</do>
+      <scale>diatonis</scale>
+      <tempo>120</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-em</instrumentRef>
+        <instrumentRef>accomp-kecil-em</instrumentRef>
+        <instrumentRef>accomp-besar-a7</instrumentRef>
+        <instrumentRef>accomp-kecil-a7</instrumentRef>
+        <instrumentRef>accomp-besar-flat7</instrumentRef>
+        <instrumentRef>accomp-kecil-flat7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-15">
+      <title>Cahaya Lentera</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>F</do>
+      <scale>diatonis</scale>
+      <tempo>127</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-a7</instrumentRef>
+        <instrumentRef>accomp-kecil-a7</instrumentRef>
+        <instrumentRef>accomp-besar-c7</instrumentRef>
+        <instrumentRef>accomp-kecil-c7</instrumentRef>
+        <instrumentRef>accomp-besar-e7</instrumentRef>
+        <instrumentRef>accomp-kecil-e7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-16">
+      <title>Jejak di Sawah</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>C</do>
+      <scale>diatonis</scale>
+      <tempo>83</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-c7</instrumentRef>
+        <instrumentRef>accomp-kecil-c7</instrumentRef>
+        <instrumentRef>accomp-besar-f7</instrumentRef>
+        <instrumentRef>accomp-kecil-f7</instrumentRef>
+        <instrumentRef>accomp-besar-flatflat</instrumentRef>
+        <instrumentRef>accomp-kecil-flatflat</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-17">
+      <title>Rindu Kampung</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>Bb</do>
+      <scale>diatonis</scale>
+      <tempo>90</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-f7</instrumentRef>
+        <instrumentRef>accomp-kecil-f7</instrumentRef>
+        <instrumentRef>accomp-besar-g</instrumentRef>
+        <instrumentRef>accomp-kecil-g</instrumentRef>
+        <instrumentRef>accomp-besar-flat</instrumentRef>
+        <instrumentRef>accomp-kecil-flat</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-18">
+      <title>Satu Irama</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>G</do>
+      <scale>diatonis</scale>
+      <tempo>97</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-g</instrumentRef>
+        <instrumentRef>accomp-kecil-g</instrumentRef>
+        <instrumentRef>accomp-besar-c</instrumentRef>
+        <instrumentRef>accomp-kecil-c</instrumentRef>
+        <instrumentRef>accomp-besar-em</instrumentRef>
+        <instrumentRef>accomp-kecil-em</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-19">
+      <title>Langkah Bersama</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>D</do>
+      <scale>diatonis</scale>
+      <tempo>104</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-c</instrumentRef>
+        <instrumentRef>accomp-kecil-c</instrumentRef>
+        <instrumentRef>accomp-besar-fm</instrumentRef>
+        <instrumentRef>accomp-kecil-fm</instrumentRef>
+        <instrumentRef>accomp-besar-a7</instrumentRef>
+        <instrumentRef>accomp-kecil-a7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-20">
+      <title>Finale Nusantara</title>
+      <composer>Komposisi demo</composer>
+      <genre>Orisinal · contoh</genre>
+      <do>C</do>
+      <scale>diatonis</scale>
+      <tempo>111</tempo>
+      <url />
+      <memo>Contoh fiktif untuk presentasi. Cakupan lagu mencakup Melodi 0–35, Bass g–f, dan Gajah G–F; Melodi bawah/tengah/atas, Bass, Gajah, serta Accomp Besar/Kecil membentuk beberapa lapisan yang dapat berbunyi serentak. Referensi instrumen menunjukkan cakupan dan pembagian orchestra; tidak berarti setiap nada dibunyikan terus-menerus. Sesuaikan voicing tiap birama dengan partitur dan Do= lagu.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-fm</instrumentRef>
+        <instrumentRef>accomp-kecil-fm</instrumentRef>
+        <instrumentRef>accomp-besar-asharp7</instrumentRef>
+        <instrumentRef>accomp-kecil-asharp7</instrumentRef>
+        <instrumentRef>accomp-besar-c7</instrumentRef>
+        <instrumentRef>accomp-kecil-c7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama (contoh): 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+  </songs>
+  <calendar>
+    <event id="latihan-besar-01" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="0">
+      <title>Latihan besar bulanan</title>
+      <date>2026-10-17</date>
+      <time>10:00</time>
+      <location>Aula orchestra demo</location>
+      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
+      <attendance>
+        <mark playerRef="angklung-01" status="izin" />
+        <mark playerRef="angklung-02" status="hadir" />
+        <mark playerRef="angklung-03" status="hadir" />
+        <mark playerRef="angklung-04" status="hadir" />
+        <mark playerRef="angklung-05" status="hadir" />
+        <mark playerRef="angklung-06" status="hadir" />
+        <mark playerRef="angklung-07" status="hadir" />
+        <mark playerRef="angklung-08" status="hadir" />
+        <mark playerRef="angklung-09" status="hadir" />
+        <mark playerRef="angklung-10" status="izin" />
+        <mark playerRef="angklung-11" status="hadir" />
+        <mark playerRef="angklung-12" status="hadir" />
+        <mark playerRef="angklung-13" status="hadir" />
+        <mark playerRef="angklung-14" status="hadir" />
+        <mark playerRef="angklung-15" status="hadir" />
+        <mark playerRef="angklung-16" status="hadir" />
+        <mark playerRef="angklung-17" status="hadir" />
+        <mark playerRef="angklung-18" status="hadir" />
+        <mark playerRef="angklung-19" status="sakit" />
+        <mark playerRef="angklung-20" status="hadir" />
+        <mark playerRef="angklung-21" status="hadir" />
+        <mark playerRef="angklung-22" status="hadir" />
+        <mark playerRef="angklung-23" status="hadir" />
+        <mark playerRef="angklung-24" status="hadir" />
+        <mark playerRef="angklung-25" status="hadir" />
+        <mark playerRef="angklung-26" status="hadir" />
+        <mark playerRef="angklung-27" status="hadir" />
+        <mark playerRef="angklung-28" status="alpa" />
+        <mark playerRef="angklung-29" status="hadir" />
+        <mark playerRef="angklung-30" status="hadir" />
+        <mark playerRef="angklung-31" status="hadir" />
+        <mark playerRef="angklung-32" status="hadir" />
+        <mark playerRef="angklung-33" status="hadir" />
+        <mark playerRef="angklung-34" status="hadir" />
+        <mark playerRef="angklung-35" status="hadir" />
+        <mark playerRef="angklung-36" status="hadir" />
+        <mark playerRef="angklung-37" status="izin" />
+        <mark playerRef="angklung-38" status="hadir" />
+        <mark playerRef="accomp-01" status="hadir" />
+        <mark playerRef="accomp-02" status="hadir" />
+        <mark playerRef="altam-01" status="hadir" />
+        <mark playerRef="altam-02" status="hadir" />
+        <mark playerRef="altam-03" status="hadir" />
+        <mark playerRef="altam-04" status="hadir" />
+        <mark playerRef="altam-05" status="hadir" />
+      </attendance>
+    </event>
+    <event id="latihan-kecil-01" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="0">
+      <title>Latihan kecil mingguan</title>
+      <date>2026-11-04</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance>
+        <mark playerRef="angklung-01" status="izin" />
+        <mark playerRef="angklung-02" status="hadir" />
+        <mark playerRef="angklung-03" status="hadir" />
+        <mark playerRef="angklung-04" status="hadir" />
+        <mark playerRef="angklung-05" status="hadir" />
+        <mark playerRef="angklung-06" status="hadir" />
+        <mark playerRef="angklung-07" status="hadir" />
+        <mark playerRef="angklung-08" status="hadir" />
+        <mark playerRef="angklung-09" status="hadir" />
+        <mark playerRef="angklung-10" status="izin" />
+        <mark playerRef="angklung-11" status="hadir" />
+        <mark playerRef="angklung-12" status="hadir" />
+        <mark playerRef="angklung-13" status="hadir" />
+        <mark playerRef="angklung-14" status="hadir" />
+        <mark playerRef="angklung-15" status="hadir" />
+        <mark playerRef="angklung-16" status="hadir" />
+        <mark playerRef="angklung-17" status="hadir" />
+        <mark playerRef="angklung-18" status="hadir" />
+        <mark playerRef="angklung-19" status="sakit" />
+        <mark playerRef="angklung-20" status="hadir" />
+        <mark playerRef="angklung-21" status="hadir" />
+        <mark playerRef="angklung-22" status="hadir" />
+        <mark playerRef="angklung-23" status="hadir" />
+        <mark playerRef="angklung-24" status="hadir" />
+        <mark playerRef="angklung-25" status="hadir" />
+        <mark playerRef="angklung-26" status="hadir" />
+        <mark playerRef="angklung-27" status="hadir" />
+        <mark playerRef="angklung-28" status="alpa" />
+        <mark playerRef="angklung-29" status="hadir" />
+        <mark playerRef="angklung-30" status="hadir" />
+        <mark playerRef="angklung-31" status="hadir" />
+        <mark playerRef="angklung-32" status="hadir" />
+        <mark playerRef="angklung-33" status="hadir" />
+        <mark playerRef="angklung-34" status="hadir" />
+        <mark playerRef="angklung-35" status="hadir" />
+        <mark playerRef="angklung-36" status="hadir" />
+        <mark playerRef="angklung-37" status="izin" />
+        <mark playerRef="angklung-38" status="hadir" />
+        <mark playerRef="accomp-01" status="hadir" />
+        <mark playerRef="accomp-02" status="hadir" />
+        <mark playerRef="altam-01" status="hadir" />
+        <mark playerRef="altam-02" status="hadir" />
+        <mark playerRef="altam-03" status="hadir" />
+        <mark playerRef="altam-04" status="hadir" />
+        <mark playerRef="altam-05" status="hadir" />
+      </attendance>
+    </event>
+    <event id="latihan-kecil-02" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="1">
+      <title>Latihan kecil mingguan</title>
+      <date>2026-11-11</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance>
+        <mark playerRef="angklung-01" status="izin" />
+        <mark playerRef="angklung-02" status="hadir" />
+        <mark playerRef="angklung-03" status="hadir" />
+        <mark playerRef="angklung-04" status="hadir" />
+        <mark playerRef="angklung-05" status="hadir" />
+        <mark playerRef="angklung-06" status="hadir" />
+        <mark playerRef="angklung-07" status="hadir" />
+        <mark playerRef="angklung-08" status="hadir" />
+        <mark playerRef="angklung-09" status="hadir" />
+        <mark playerRef="angklung-10" status="izin" />
+        <mark playerRef="angklung-11" status="hadir" />
+        <mark playerRef="angklung-12" status="hadir" />
+        <mark playerRef="angklung-13" status="hadir" />
+        <mark playerRef="angklung-14" status="hadir" />
+        <mark playerRef="angklung-15" status="hadir" />
+        <mark playerRef="angklung-16" status="hadir" />
+        <mark playerRef="angklung-17" status="hadir" />
+        <mark playerRef="angklung-18" status="hadir" />
+        <mark playerRef="angklung-19" status="sakit" />
+        <mark playerRef="angklung-20" status="hadir" />
+        <mark playerRef="angklung-21" status="hadir" />
+        <mark playerRef="angklung-22" status="hadir" />
+        <mark playerRef="angklung-23" status="hadir" />
+        <mark playerRef="angklung-24" status="hadir" />
+        <mark playerRef="angklung-25" status="hadir" />
+        <mark playerRef="angklung-26" status="hadir" />
+        <mark playerRef="angklung-27" status="hadir" />
+        <mark playerRef="angklung-28" status="alpa" />
+        <mark playerRef="angklung-29" status="hadir" />
+        <mark playerRef="angklung-30" status="hadir" />
+        <mark playerRef="angklung-31" status="hadir" />
+        <mark playerRef="angklung-32" status="hadir" />
+        <mark playerRef="angklung-33" status="hadir" />
+        <mark playerRef="angklung-34" status="hadir" />
+        <mark playerRef="angklung-35" status="hadir" />
+        <mark playerRef="angklung-36" status="hadir" />
+        <mark playerRef="angklung-37" status="izin" />
+        <mark playerRef="angklung-38" status="hadir" />
+        <mark playerRef="accomp-01" status="hadir" />
+        <mark playerRef="accomp-02" status="hadir" />
+        <mark playerRef="altam-01" status="hadir" />
+        <mark playerRef="altam-02" status="hadir" />
+        <mark playerRef="altam-03" status="hadir" />
+        <mark playerRef="altam-04" status="hadir" />
+        <mark playerRef="altam-05" status="hadir" />
+      </attendance>
+    </event>
+    <event id="latihan-besar-02" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="1">
+      <title>Latihan besar bulanan</title>
+      <date>2026-11-17</date>
+      <time>10:00</time>
+      <location>Aula orchestra demo</location>
+      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-03" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="2">
+      <title>Latihan kecil mingguan</title>
+      <date>2026-11-18</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-04" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="3">
+      <title>Latihan kecil mingguan</title>
+      <date>2026-11-25</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-05" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="4">
+      <title>Latihan kecil mingguan</title>
+      <date>2026-12-02</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-06" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="5">
+      <title>Latihan kecil mingguan</title>
+      <date>2026-12-09</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-07" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="6">
+      <title>Latihan kecil mingguan</title>
+      <date>2026-12-16</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-besar-03" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="2">
+      <title>Latihan besar bulanan</title>
+      <date>2026-12-17</date>
+      <time>10:00</time>
+      <location>Aula orchestra demo</location>
+      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-08" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="7">
+      <title>Latihan kecil mingguan</title>
+      <date>2026-12-23</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-09" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="8">
+      <title>Latihan kecil mingguan</title>
+      <date>2026-12-30</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-10" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="9">
+      <title>Latihan kecil mingguan</title>
+      <date>2027-01-06</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-11" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="10">
+      <title>Latihan kecil mingguan</title>
+      <date>2027-01-13</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-besar-04" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="3">
+      <title>Latihan besar bulanan</title>
+      <date>2027-01-17</date>
+      <time>10:00</time>
+      <location>Aula orchestra demo</location>
+      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-12" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="11">
+      <title>Latihan kecil mingguan</title>
+      <date>2027-01-20</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-13" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="12">
+      <title>Latihan kecil mingguan</title>
+      <date>2027-01-27</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-14" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="13">
+      <title>Latihan kecil mingguan</title>
+      <date>2027-02-03</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="konser-tur-01" type="performance">
+      <title>Tur Demo · Jakarta</title>
+      <date>2027-02-05</date>
+      <time>19:30</time>
+      <location>Gedung Pertunjukan Demo · Jakarta</location>
+      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="konser-tur-02" type="performance">
+      <title>Tur Demo · Bandung</title>
+      <date>2027-02-08</date>
+      <time>19:30</time>
+      <location>Gedung Pertunjukan Demo · Bandung</location>
+      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-15" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="14">
+      <title>Latihan kecil mingguan</title>
+      <date>2027-02-10</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="konser-tur-03" type="performance">
+      <title>Tur Demo · Yogyakarta</title>
+      <date>2027-02-11</date>
+      <time>19:30</time>
+      <location>Gedung Pertunjukan Demo · Yogyakarta</location>
+      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="konser-tur-04" type="performance">
+      <title>Tur Demo · Semarang</title>
+      <date>2027-02-14</date>
+      <time>19:30</time>
+      <location>Gedung Pertunjukan Demo · Semarang</location>
+      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-besar-05" type="rehearsal" series="latihan-besar" frequency="monthly" until="2027-02-17" occurrence="4">
+      <title>Latihan besar bulanan</title>
+      <date>2027-02-17</date>
+      <time>10:00</time>
+      <location>Aula orchestra demo</location>
+      <description>Latihan lengkap seluruh bagian · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-16" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="15">
+      <title>Latihan kecil mingguan</title>
+      <date>2027-02-17</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="konser-tur-05" type="performance">
+      <title>Tur Demo · Surabaya</title>
+      <date>2027-02-17</date>
+      <time>19:30</time>
+      <location>Gedung Pertunjukan Demo · Surabaya</location>
+      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="konser-tur-06" type="performance">
+      <title>Tur Demo · Malang</title>
+      <date>2027-02-20</date>
+      <time>19:30</time>
+      <location>Gedung Pertunjukan Demo · Malang</location>
+      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="latihan-kecil-17" type="rehearsal" series="latihan-kecil" frequency="weekly" until="2027-02-24" occurrence="16">
+      <title>Latihan kecil mingguan</title>
+      <date>2027-02-24</date>
+      <time>19:00</time>
+      <location>Ruang latihan demo</location>
+      <description>Latihan kelompok kecil · agenda fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="konser-tur-07" type="performance">
+      <title>Tur Demo · Denpasar</title>
+      <date>2027-02-24</date>
+      <time>19:30</time>
+      <location>Gedung Pertunjukan Demo · Denpasar</location>
+      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+    <event id="konser-tur-08" type="performance">
+      <title>Tur Demo · Jakarta (penutup)</title>
+      <date>2027-02-27</date>
+      <time>19:30</time>
+      <location>Gedung Pertunjukan Demo · Jakarta</location>
+      <description>Tanggal, kota, dan lokasi tur ini sepenuhnya fiktif untuk presentasi.</description>
+      <attendance />
+    </event>
+  </calendar>
+</rumpun>
