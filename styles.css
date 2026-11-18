@@ -125,3 +125,5 @@
 :root[data-theme="dark"] .repertoire-key-group td{background:#25352b}
 :root[data-theme="dark"] .repertoire-key-group b{color:#b9d7b6}
 @media(max-width:720px){.player-instrument-list{grid-template-columns:1fr;min-width:180px}}
+
+:root[data-theme="dark"] .player-instrument-top b{color:#edf3ed}
