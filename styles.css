@@ -127,3 +127,17 @@
 @media(max-width:720px){.player-instrument-list{grid-template-columns:1fr;min-width:180px}}
 
 :root[data-theme="dark"] .player-instrument-top b{color:#edf3ed}
+
+
+/* Improve readability of instrument assignments in the player list. */
+.player-instrument-list{grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:8px;min-width:390px}
+.player-instrument{padding:10px 12px;border-radius:9px;background:#f7f9f4}
+.player-instrument-top{gap:10px;line-height:1.4}
+.player-instrument-top b{font-size:13px;line-height:1.4}
+.player-instrument-top>span{font-size:12px}
+.player-instrument-uses{gap:6px;margin-top:8px}
+.instrument-do-group{gap:4px 7px;padding:5px 7px;border-radius:6px;font-size:11px;line-height:1.5}
+.instrument-do-group b,.instrument-do-group em{font-size:11px}
+.player-instrument-unused{margin-top:7px;font-size:11px;line-height:1.5}
+:root[data-theme="dark"] .player-instrument{background:#1d2a22}
+@media(max-width:720px){.player-instrument-list{grid-template-columns:1fr;min-width:300px}}
