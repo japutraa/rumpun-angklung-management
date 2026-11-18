@@ -46,7 +46,7 @@ Setiap instrumen dapat memiliki jumlah unit, nada atau tuning, catatan, serta ko
 
 - Catat judul, komposer, nada dasar `Do=`, sistem nada, tempo, tautan partitur, instrumen, serta catatan latihan.
 - Simpan notasi sebagai teks per birama atau frasa; beberapa bagian dapat dicatat sebagai lapisan yang berbunyi serentak.
-- Aplikasi menampilkan konversi nada relatif terhadap `Do=`: `/` untuk setengah laras di atas, `\\` untuk setengah laras di bawah, `^` untuk oktaf atas, dan `.` untuk oktaf bawah. Contoh saat `Do=C`: C# = 1/, Db = 2\\, C5 = 1^, dan C3 = 1..
+- Aplikasi menampilkan konversi nada relatif terhadap `Do=`: `/` untuk setengah laras di atas, `\` untuk setengah laras di bawah, `^` untuk oktaf atas, dan `.` untuk oktaf bawah. Contoh saat `Do=C`: C# = 1/, Db = 2\\, C5 = 1^, dan C3 = 1..
 - Nada absolut tiap instrumen dapat dicatat atau disesuaikan saat mengelola instrumen.
 
 ### Kalender dan kehadiran
