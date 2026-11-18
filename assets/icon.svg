@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="18" fill="#224e3b"/><path d="M18 18c16 0 25 8 25 22 0 6-4 10-10 10-6 0-10-4-10-10 0-8 6-14 16-17M24 16v36M14 22v26M50 19v31" fill="none" stroke="#f4c96b" stroke-width="4" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Rumpun — angklung</title>
+  <rect width="64" height="64" rx="17" fill="#224e3b"/>
+  <g fill="none" stroke="#f4c96b" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 22v22M32 15v29M47 21v23" stroke-width="4.5"/>
+    <path d="M15 33h34" stroke-width="3.2"/>
+    <path d="M18 48q14 7 28 0" stroke-width="3.2"/>
+  </g>
+</svg>
