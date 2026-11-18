@@ -37,10 +37,10 @@ Inventaris dibagi menjadi **Set Angklung** dan **Alat Tambahan (AlTam)**. Katego
 
 - Melodi 0–30 dan Melodi tambahan 31–35.
 - Bass g–f dan Gajah G–F.
-- Accomp Besar dan Accomp Kecil untuk 17 label akor: G, A, B, C, Dm, Em, Fm, G7, A7, A#7, B7, C7, D7, E7, F7, F#7, dan Bb.
+- Accomp Besar dan Accomp Kecil untuk 48 label akor: 12 nada kromatis (C sampai B) dengan empat jenis, yaitu dominan 7, minor (m), diminished (dim), dan suspended (sus). Contoh: C7, C#7, D7 sampai B7; serta Cm, C#m, Dm sampai Bm.
 - Alat Tambahan seperti Contrabass, Violin, atau Gitar dapat dicatat terpisah.
 
-Setiap instrumen dapat memiliki jumlah unit, nada atau tuning, catatan, serta kondisi. Triad mayor/minor Accomp memakai tiga tabung; akor dominan 7 memakai empat tabung.
+Setiap instrumen dapat memiliki jumlah unit, nada atau tuning, catatan, serta kondisi. Akor minor, dim, dan sus memakai tiga tabung; akor 7 memakai empat tabung.
 
 ### Repertoar dan notasi
 
@@ -80,7 +80,7 @@ Aplikasi ini berupa berkas statis dan tidak memerlukan proses build. Untuk mener
 
 ## Struktur ekspor XML
 
-Ekspor menggunakan root `<rumpun version="9">` dengan bagian `<orchestra>`, `<players>`, `<instruments>`, `<songs>`, dan `<calendar>`. Relasi instrumen pemain menyimpan jumlah unit, lagu menyimpan nada dasar dan notasi, serta agenda dapat menyertakan data kehadiran. Ekspor Rumpun dapat diimpor kembali melalui menu **Ekspor & cadangan**.
+Ekspor menggunakan root `<rumpun version="11">` dengan bagian `<orchestra>`, `<players>`, `<instruments>`, `<songs>`, dan `<calendar>`. Relasi instrumen pemain menyimpan jumlah unit, lagu menyimpan nada dasar dan notasi, serta agenda dapat menyertakan data kehadiran. Ekspor Rumpun dapat diimpor kembali melalui menu **Ekspor & cadangan**.
 
 ## Batasan
 
