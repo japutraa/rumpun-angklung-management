@@ -141,3 +141,7 @@
 .player-instrument-unused{margin-top:7px;font-size:11px;line-height:1.5}
 :root[data-theme="dark"] .player-instrument{background:#1d2a22}
 @media(max-width:720px){.player-instrument-list{grid-template-columns:1fr;min-width:300px}}
+
+
+/* Reuse the redesigned angklung emblem in the sidebar wordmark. */
+.brand-mark{display:block;width:42px;height:42px;flex:none;object-fit:contain;border-radius:11px;background:transparent}
