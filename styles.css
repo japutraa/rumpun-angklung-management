@@ -145,3 +145,8 @@
 
 /* Reuse the redesigned angklung emblem in the sidebar wordmark. */
 .brand-mark{display:block;width:42px;height:42px;flex:none;object-fit:contain;border-radius:11px;background:transparent}
+
+
+/* Use the exact SVG silhouette without a background. Recolor it for contrast by theme. */
+.brand-mark{display:block;width:42px;height:42px;flex:none;border-radius:0;background-color:var(--green);-webkit-mask:url("assets/icon.svg?v=logo-aho-20261118") center/contain no-repeat;mask:url("assets/icon.svg?v=logo-aho-20261118") center/contain no-repeat}
+:root[data-theme="dark"] .brand-mark{background-color:var(--yellow)}
