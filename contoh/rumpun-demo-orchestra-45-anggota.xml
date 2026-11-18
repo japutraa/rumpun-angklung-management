@@ -1538,7 +1538,701 @@
         <instrumentRef>bass-f</instrumentRef>
         <instrumentRef>gajah-G</instrumentRef>
         <instrumentRef>gajah-Gs</instrumentRef>
-        <instr…8631 tokens truncated… <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-c</instrumentRef>
+        <instrumentRef>accomp-kecil-c</instrumentRef>
+        <instrumentRef>accomp-besar-fm</instrumentRef>
+        <instrumentRef>accomp-kecil-fm</instrumentRef>
+        <instrumentRef>accomp-besar-a7</instrumentRef>
+        <instrumentRef>accomp-kecil-a7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-03">
+      <title>Layang-Layang Angkasa</title>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
+      <do>D</do>
+      <scale>diatonis</scale>
+      <tempo>94</tempo>
+      <url />
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=D.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-fm</instrumentRef>
+        <instrumentRef>accomp-kecil-fm</instrumentRef>
+        <instrumentRef>accomp-besar-asharp7</instrumentRef>
+        <instrumentRef>accomp-kecil-asharp7</instrumentRef>
+        <instrumentRef>accomp-besar-c7</instrumentRef>
+        <instrumentRef>accomp-kecil-c7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-04">
+      <title>Sungai Berkilau</title>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
+      <do>F</do>
+      <scale>diatonis</scale>
+      <tempo>101</tempo>
+      <url />
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=F.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-asharp7</instrumentRef>
+        <instrumentRef>accomp-kecil-asharp7</instrumentRef>
+        <instrumentRef>accomp-besar-d7</instrumentRef>
+        <instrumentRef>accomp-kecil-d7</instrumentRef>
+        <instrumentRef>accomp-besar-f7</instrumentRef>
+        <instrumentRef>accomp-kecil-f7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-05">
+      <title>Pasar Minggu</title>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
+      <do>A</do>
+      <scale>diatonis</scale>
+      <tempo>108</tempo>
+      <url />
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=A.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-d7</instrumentRef>
+        <instrumentRef>accomp-kecil-d7</instrumentRef>
+        <instrumentRef>accomp-besar-fsharp7</instrumentRef>
+        <instrumentRef>accomp-kecil-fsharp7</instrumentRef>
+        <instrumentRef>accomp-besar-g</instrumentRef>
+        <instrumentRef>accomp-kecil-g</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-06">
+      <title>Tarian Bambu</title>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
+      <do>C</do>
+      <scale>diatonis</scale>
+      <tempo>115</tempo>
+      <url />
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=C.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-fsharp7</instrumentRef>
+        <instrumentRef>accomp-kecil-fsharp7</instrumentRef>
+        <instrumentRef>accomp-besar-a</instrumentRef>
+        <instrumentRef>accomp-kecil-a</instrumentRef>
+        <instrumentRef>accomp-besar-c</instrumentRef>
+        <instrumentRef>accomp-kecil-c</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-07">
+      <title>Jalan Pulang</title>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
+      <do>G</do>
+      <scale>diatonis</scale>
+      <tempo>122</tempo>
+      <url />
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=G.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-a</instrumentRef>
+        <instrumentRef>accomp-kecil-a</instrumentRef>
+        <instrumentRef>accomp-besar-dm</instrumentRef>
+        <instrumentRef>accomp-kecil-dm</instrumentRef>
+        <instrumentRef>accomp-besar-fm</instrumentRef>
+        <instrumentRef>accomp-kecil-fm</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-08">
+      <title>Bintang di Panggung</title>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
+      <do>D</do>
+      <scale>diatonis</scale>
+      <tempo>129</tempo>
+      <url />
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=D.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-dm</instrumentRef>
+        <instrumentRef>accomp-kecil-dm</instrumentRef>
+        <instrumentRef>accomp-besar-g7</instrumentRef>
+        <instrumentRef>accomp-kecil-g7</instrumentRef>
+        <instrumentRef>accomp-besar-asharp7</instrumentRef>
+        <instrumentRef>accomp-kecil-asharp7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-09">
+      <title>Roda Kereta</title>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
+      <do>Bb</do>
+      <scale>diatonis</scale>
+      <tempo>85</tempo>
+      <url />
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=Bb.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-g7</instrumentRef>
+        <instrumentRef>accomp-kecil-g7</instrumentRef>
+        <instrumentRef>accomp-besar-flat7</instrumentRef>
+        <instrumentRef>accomp-kecil-flat7</instrumentRef>
+        <instrumentRef>accomp-besar-d7</instrumentRef>
+        <instrumentRef>accomp-kecil-d7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
+      </notation>
+    </song>
+    <song id="lagu-10">
+      <title>Angin dari Timur</title>
+      <composer>Tim Musik AHO</composer>
+      <genre>Aransemen orchestra</genre>
+      <do>F</do>
+      <scale>diatonis</scale>
+      <tempo>92</tempo>
+      <url />
+      <memo>Aransemen untuk latihan gabungan. Bagian Melodi dibagi ke register bawah, tengah, dan atas; Bass serta Gajah menopang dasar harmoni; Accomp Besar dan Kecil mengisi akor panjang maupun aksen. Semua instrumen tidak berbunyi pada setiap ketukan. Cocokkan voicing dan artikulasi dengan partitur final untuk Do=F.</memo>
+      <instruments>
+        <instrumentRef>mel-0</instrumentRef>
+        <instrumentRef>mel-1</instrumentRef>
+        <instrumentRef>mel-2</instrumentRef>
+        <instrumentRef>mel-3</instrumentRef>
+        <instrumentRef>mel-4</instrumentRef>
+        <instrumentRef>mel-5</instrumentRef>
+        <instrumentRef>mel-6</instrumentRef>
+        <instrumentRef>mel-7</instrumentRef>
+        <instrumentRef>mel-8</instrumentRef>
+        <instrumentRef>mel-9</instrumentRef>
+        <instrumentRef>mel-10</instrumentRef>
+        <instrumentRef>mel-11</instrumentRef>
+        <instrumentRef>mel-12</instrumentRef>
+        <instrumentRef>mel-13</instrumentRef>
+        <instrumentRef>mel-14</instrumentRef>
+        <instrumentRef>mel-15</instrumentRef>
+        <instrumentRef>mel-16</instrumentRef>
+        <instrumentRef>mel-17</instrumentRef>
+        <instrumentRef>mel-18</instrumentRef>
+        <instrumentRef>mel-19</instrumentRef>
+        <instrumentRef>mel-20</instrumentRef>
+        <instrumentRef>mel-21</instrumentRef>
+        <instrumentRef>mel-22</instrumentRef>
+        <instrumentRef>mel-23</instrumentRef>
+        <instrumentRef>mel-24</instrumentRef>
+        <instrumentRef>mel-25</instrumentRef>
+        <instrumentRef>mel-26</instrumentRef>
+        <instrumentRef>mel-27</instrumentRef>
+        <instrumentRef>mel-28</instrumentRef>
+        <instrumentRef>mel-29</instrumentRef>
+        <instrumentRef>mel-30</instrumentRef>
+        <instrumentRef>mel-31</instrumentRef>
+        <instrumentRef>mel-32</instrumentRef>
+        <instrumentRef>mel-33</instrumentRef>
+        <instrumentRef>mel-34</instrumentRef>
+        <instrumentRef>mel-35</instrumentRef>
+        <instrumentRef>bass-g</instrumentRef>
+        <instrumentRef>bass-gs</instrumentRef>
+        <instrumentRef>bass-a</instrumentRef>
+        <instrumentRef>bass-as</instrumentRef>
+        <instrumentRef>bass-b</instrumentRef>
+        <instrumentRef>bass-c</instrumentRef>
+        <instrumentRef>bass-cs</instrumentRef>
+        <instrumentRef>bass-d</instrumentRef>
+        <instrumentRef>bass-ds</instrumentRef>
+        <instrumentRef>bass-e</instrumentRef>
+        <instrumentRef>bass-f</instrumentRef>
+        <instrumentRef>gajah-G</instrumentRef>
+        <instrumentRef>gajah-Gs</instrumentRef>
+        <instrumentRef>gajah-A</instrumentRef>
+        <instrumentRef>gajah-As</instrumentRef>
+        <instrumentRef>gajah-B</instrumentRef>
+        <instrumentRef>gajah-C</instrumentRef>
+        <instrumentRef>gajah-Cs</instrumentRef>
+        <instrumentRef>gajah-D</instrumentRef>
+        <instrumentRef>gajah-Ds</instrumentRef>
+        <instrumentRef>gajah-E</instrumentRef>
+        <instrumentRef>gajah-F</instrumentRef>
+        <instrumentRef>accomp-besar-flat7</instrumentRef>
+        <instrumentRef>accomp-kecil-flat7</instrumentRef>
+        <instrumentRef>accomp-besar-e7</instrumentRef>
+        <instrumentRef>accomp-kecil-e7</instrumentRef>
+        <instrumentRef>accomp-besar-fsharp7</instrumentRef>
+        <instrumentRef>accomp-kecil-fsharp7</instrumentRef>
+      </instruments>
+      <notation>
+        <line bar="1">Melodi utama: 1 2 3 5 | 5 3 2 1</line>
+        <line bar="2">Melodi tengah (serentak): 1^ — 3^ 5^ | 4^ — 2^ —</line>
+        <line bar="3">Melodi atas (aksen/isi): 5^ 6^ 1^^ — | 7^ 6^ 5^ —</line>
+        <line bar="4">Bass (serentak): 1.. — 5.. — | 1.. — 5.. —</line>
+        <line bar="5">Gajah (pedal rendah, serentak): 1... — — — | 5... — — —</line>
+        <line bar="6">Accomp Besar + Kecil (serentak): akor tahan | cetok pada ketukan 2 dan 4</line>
       </notation>
     </song>
     <song id="lagu-11">
