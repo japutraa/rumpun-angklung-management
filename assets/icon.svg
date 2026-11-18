@@ -1,9 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title id="title">Rumpun — angklung</title>
-  <rect width="64" height="64" rx="17" fill="#224e3b"/>
-  <g fill="none" stroke="#f4c96b" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M17 22v22M32 15v29M47 21v23" stroke-width="4.5"/>
-    <path d="M15 33h34" stroke-width="3.2"/>
-    <path d="M18 48q14 7 28 0" stroke-width="3.2"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169.51 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #224e3b;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Ebene_1-2" data-name="Ebene 1">
+    <g>
+      <rect class="cls-1" x="64.85" y="95.34" width="200" height="9.32" transform="translate(264.85 -64.85) rotate(90)"/>
+      <rect class="cls-1" x="-15.25" y="95.34" width="200" height="9.32" transform="translate(184.75 15.25) rotate(90)"/>
+      <path class="cls-1" d="M125.56,17.28v80.16c0,5.57-1.52,7.37-7.59,7.37-1.16,0-2.1-.14-3.25-.29v95.48h20.17V17.28h-9.32Z"/>
+      <path class="cls-1" d="M45.47,55.44v58.19c0,5.57-1.52,7.37-7.59,7.37-1.16,0-2.1-.14-3.25-.29v79.28h20.17V55.44h-9.32Z"/>
+      <rect class="cls-1" x="-95.34" y="95.34" width="200" height="9.32" transform="translate(104.66 95.34) rotate(90)"/>
+    </g>
   </g>
 </svg>
