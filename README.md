@@ -36,7 +36,7 @@ Kemudian buka <http://localhost:8000>.
 Inventaris dibagi menjadi **Set Angklung** dan **Alat Tambahan (AlTam)**. Kategori Set Angklung mencakup:
 
 - Melodi 0–30 dan Melodi tambahan 31–35.
-- Bass g–f dan Gajah G–F.
+- Bass g–f dan Gajah G–F# (termasuk nada F#2).
 - Accomp Besar dan Accomp Kecil untuk 48 label akor: 12 nada kromatis (C sampai B) dengan empat jenis, yaitu dominan 7, minor (m), diminished (dim), dan suspended (sus). Contoh: C7, C#7, D7 sampai B7; serta Cm, C#m, Dm sampai Bm.
 - Alat Tambahan seperti Contrabass, Violin, atau Gitar dapat dicatat terpisah.
 
@@ -80,7 +80,7 @@ Aplikasi ini berupa berkas statis dan tidak memerlukan proses build. Untuk mener
 
 ## Struktur ekspor XML
 
-Ekspor menggunakan root `<rumpun version="11">` dengan bagian `<orchestra>`, `<players>`, `<instruments>`, `<songs>`, dan `<calendar>`. Relasi instrumen pemain menyimpan jumlah unit, lagu menyimpan nada dasar dan notasi, serta agenda dapat menyertakan data kehadiran. Ekspor Rumpun dapat diimpor kembali melalui menu **Ekspor & cadangan**.
+Ekspor menggunakan root `<rumpun version="12">` dengan bagian `<orchestra>`, `<players>`, `<instruments>`, `<songs>`, dan `<calendar>`. Relasi instrumen pemain menyimpan jumlah unit, lagu menyimpan nada dasar dan notasi, serta agenda dapat menyertakan data kehadiran. Ekspor Rumpun dapat diimpor kembali melalui menu **Ekspor & cadangan**.
 
 ## Batasan
 
