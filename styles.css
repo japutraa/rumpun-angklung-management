@@ -150,3 +150,71 @@
 /* Use the exact SVG silhouette without a background. Recolor it for contrast by theme. */
 .brand-mark{display:block;width:42px;height:42px;flex:none;border-radius:0;background-color:var(--green);-webkit-mask:url("assets/icon.svg?v=logo-aho-20261118") center/contain no-repeat;mask:url("assets/icon.svg?v=logo-aho-20261118") center/contain no-repeat}
 :root[data-theme="dark"] .brand-mark{background-color:var(--yellow)}
+
+
+/* Mobile player cards: prioritize instrument pitch, Do= mapping, and song usage. */
+@media(max-width:720px){
+  .table-wrap:has(.players-table){overflow:visible}
+  .players-table{width:100%;min-width:0;display:block}
+  .players-table thead{display:none}
+  .players-table tbody{display:grid;gap:12px}
+  .players-table tbody tr{
+    display:grid;
+    grid-template-columns:minmax(0,1fr) auto;
+    gap:0 12px;
+    padding:12px;
+    border:1px solid var(--line);
+    border-radius:12px;
+    background:var(--paper);
+    box-shadow:var(--shadow)
+  }
+  .players-table td{display:block;min-width:0;padding:0;border:0;font-size:12px}
+  .players-table td:nth-child(1){grid-column:1/-1;grid-row:1;padding-bottom:9px}
+  .players-table td:nth-child(2){grid-column:1;grid-row:2;align-self:center}
+  .players-table td:nth-child(2)::before,
+  .players-table td:nth-child(4)::before{
+    display:block;margin-bottom:2px;color:var(--muted);
+    font:700 8px Manrope;letter-spacing:.7px
+  }
+  .players-table td:nth-child(2)::before{content:"BAGIAN"}
+  .players-table td:nth-child(3){grid-column:1/-1;grid-row:3;padding-top:12px}
+  .players-table td:nth-child(3)::before{
+    content:"INSTRUMEN DIPEGANG";
+    display:block;margin-bottom:7px;color:var(--muted);
+    font:700 8px Manrope;letter-spacing:.8px
+  }
+  .players-table td:nth-child(4){grid-column:2;grid-row:2;max-width:48vw;text-align:right;overflow-wrap:anywhere;align-self:center}
+  .players-table td:nth-child(4)::before{content:"KONTAK"}
+  .players-table td:nth-child(5){grid-column:1/-1;grid-row:4;justify-self:end;padding-top:10px}
+  .players-table .table-name{font-size:14px;font-weight:700}
+  .players-table .player-instrument-list{grid-template-columns:minmax(0,1fr);gap:7px;min-width:0;width:100%}
+  .players-table .player-instrument{width:100%;padding:9px 10px}
+  .players-table .player-instrument-top b{font-size:12px}
+  .players-table .player-instrument-top>span{font-size:12px}
+  .players-table .player-instrument-uses{display:grid;gap:5px}
+  .players-table .instrument-do-group{
+    display:grid;grid-template-columns:max-content minmax(0,1fr);
+    align-items:start;gap:3px 8px;width:100%;padding:6px 7px;
+    font-size:10px;line-height:1.4
+  }
+  .players-table .instrument-do-group b{grid-column:1;grid-row:1;font-size:10px}
+  .players-table .instrument-do-group span{grid-column:2;grid-row:1;min-width:0;font-size:10px;white-space:normal}
+  .players-table .instrument-do-group em{grid-column:2;grid-row:2;font-size:10px}
+  .players-table .player-instrument-unused{font-size:10px}
+  .calendar-grid{
+    width:100%;min-width:0;
+    grid-template-columns:repeat(7,minmax(0,1fr));
+  }
+  .cal-weekday{min-width:0;padding:9px 1px;font-size:8px;letter-spacing:0}
+  .cal-day{min-width:0;min-height:72px;padding:4px 3px;overflow:hidden}
+  .day-number{font-size:10px}
+  .cal-event{
+    min-width:0;max-width:100%;padding:2px;font-size:7px;
+    line-height:1.3;white-space:normal;overflow-wrap:anywhere;
+    display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;
+    overflow:hidden;text-overflow:ellipsis
+  }
+  .calendar-toolbar{gap:4px;flex-wrap:wrap}
+  .calendar-toolbar h2{min-width:0;font-size:13px}
+}
+:root[data-theme="dark"] .players-table tbody tr{background:var(--paper)}
