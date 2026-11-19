@@ -61,7 +61,7 @@ Setiap instrumen dapat memiliki jumlah unit, nada atau tuning, catatan, serta ko
 - Data tersimpan otomatis di penyimpanan lokal browser.
 - Ekspor atau impor seluruh data dalam format XML atau JSON melalui menu **Ekspor & cadangan**.
 - Tema terang dan gelap serta tata letak responsif tersedia.
-- Berkas contoh berisi 45 profil pemain dan data repertoar: [rumpun-demo-orchestra-45-anggota.xml](rumpun-demo-orchestra-45-anggota.xml).
+- Berkas contoh berisi 45 profil pemain dan data repertoar: [contoh/rumpun-demo-orchestra-45-anggota.xml](rumpun-demo-orchestra-45-anggota.xml).
 
 ## Privasi dan pencadangan
 
